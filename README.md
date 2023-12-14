@@ -28,7 +28,7 @@
 | 2    | [여러 언어로 된 콘텐츠가 포함된 페이지는 어떻게 제공하는가?](/HTML-questions/2-multiple-languages.md)                                                                                                       | 2023-12-13 (수) 작성완료 ✅ |
 | 3    | [다국어 사이트를 설계하거나 개발할 때 주의해야 할 사항은 무엇인가요?](/HTML-questions/3-multilingual-sites.md)\*\*                                                                                          | 2023-12-14 (목) 작성완료 ✅ |
 | 4    | ['data-' 속성은 어떤 용도로 좋은가요?](/HTML-questions/4-data-attributes.md)                                                                                                                                | 2023-12-14 (목) 작성완료 ✅ |
-| 5    | [HTML5를 오픈 웹 플랫폼으로 볼 때, HTML5의 구성 요소는 무엇인가?](/HTML-questions/5-building-blocks-of-html5.md)                                                                                            | 아직 시작하지 않았음        |
+| 5    | [HTML5를 오픈 웹 플랫폼으로 볼 때, HTML5의 구성 요소는 무엇인가요?](/HTML-questions/5-building-blocks-of-html5.md)                                                                                          | 2023-12-14 (목) 작성완료 ✅ |
 | 6    | [쿠키, sessionStorage, localStorage의 차이점은 무엇인가?](/HTML-questions/6-difference-between-cookie-sessionstorage-localstorage.md)                                                                       | 아직 시작하지 않았음        |
 | 7    | [`<script>`, `<script async>`, `<script defer>`의 차이점은 무엇인가?](/HTML-questions/7-difference-between-script-async-defer.md)                                                                           | 아직 시작하지 않았음        |
 | 8    | [CSS `<link>`는 `<head></head>` 사이에, JS `<script>`는 `</body>` 직전에 위치시키는 것이 일반적으로 좋은 아이디어인 이유는 무엇인가? 예외 상황은 알고 있는가?](/HTML-questions/8-position-of-css-and-js.md) | 아직 시작하지 않았음        |
