@@ -22,49 +22,49 @@
 
 ### 1. HTML Questions
 
-| 번호 | 내용                                                                                                                                                                                                        | 상태                        |
+| 번호 | 질문                                                                                                                                                                                                        | 상태                        |
 | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
-| 1번  | [`doctype`은 어떤 기능을 하는가?](/HTML-questions/1-what-does-a-doctype-do.md)                                                                                                                              | 2023-12-13 (수) 작성완료 ✅ |
-| 2번  | [여러 언어로 된 콘텐츠가 포함된 페이지는 어떻게 제공하는가?](/HTML-questions/2-multiple-languages.md)                                                                                                       | 2023-12-13 (수) 작성완료 ✅ |
-| 3번  | [다국어 사이트를 설계하거나 개발할 때 주의해야 할 사항은 무엇인가?](/HTML-questions/3-multilingual-sites.md)                                                                                                | 아직 시작하지 않았음        |
-| 4번  | ['data-' 속성은 어떤 용도로 좋은가?](/HTML-questions/4-data-attributes.md)                                                                                                                                  | 아직 시작하지 않았음        |
-| 5번  | [HTML5를 오픈 웹 플랫폼으로 볼 때, HTML5의 구성 요소는 무엇인가?](/HTML-questions/5-building-blocks-of-html5.md)                                                                                            | 아직 시작하지 않았음        |
-| 6번  | [쿠키, sessionStorage, localStorage의 차이점은 무엇인가?](/HTML-questions/6-difference-between-cookie-sessionstorage-localstorage.md)                                                                       | 아직 시작하지 않았음        |
-| 7번  | [`<script>`, `<script async>`, `<script defer>`의 차이점은 무엇인가?](/HTML-questions/7-difference-between-script-async-defer.md)                                                                           | 아직 시작하지 않았음        |
-| 8번  | [CSS `<link>`는 `<head></head>` 사이에, JS `<script>`는 `</body>` 직전에 위치시키는 것이 일반적으로 좋은 아이디어인 이유는 무엇인가? 예외 상황은 알고 있는가?](/HTML-questions/8-position-of-css-and-js.md) | 아직 시작하지 않았음        |
-| 9번  | [프로그레시브 렌더링(Progressive Rendering)이란 무엇인가?](/HTML-questions/9-what-is-progressive-rendering.md)                                                                                              | 아직 시작하지 않았음        |
-| 10번 | [이미지 태그에서 'srcset' 속성을 사용하는 이유는 무엇인가? 이 속성의 내용을 평가하는 브라우저의 프로세스를 설명하라.](/HTML-questions/10-srcset-attribute-in-an-image-tag.md)                               | 아직 시작하지 않았음        |
-| 11번 | [다른 HTML 템플릿 언어를 사용해 본 적이 있는가?](/HTML-questions/11-html-templating-languages.md)                                                                                                           | 아직 시작하지 않았음        |
-| 12번 | [캔버스(canvas)와 SVG의 차이점은 무엇인가?](/HTML-questions/12-difference-between-canvas-and-svg.md)                                                                                                        | 아직 시작하지 않았음        |
-| 13번 | [HTML에서 빈 요소(empty elements)란 무엇인가?](/HTML-questions/13-what-are-empty-elements-in-html.md)                                                                                                       | 아직 시작하지 않았음        |
+| 1    | [`doctype`은 어떤 기능을 하는가?](/HTML-questions/1-what-does-a-doctype-do.md)                                                                                                                              | 2023-12-13 (수) 작성완료 ✅ |
+| 2    | [여러 언어로 된 콘텐츠가 포함된 페이지는 어떻게 제공하는가?](/HTML-questions/2-multiple-languages.md)                                                                                                       | 2023-12-13 (수) 작성완료 ✅ |
+| 3    | [다국어 사이트를 설계하거나 개발할 때 주의해야 할 사항은 무엇인가요?](/HTML-questions/3-multilingual-sites.md)                                                                                              | 아직 시작하지 않았음        |
+| 4    | ['data-' 속성은 어떤 용도로 좋은가?](/HTML-questions/4-data-attributes.md)                                                                                                                                  | 아직 시작하지 않았음        |
+| 5    | [HTML5를 오픈 웹 플랫폼으로 볼 때, HTML5의 구성 요소는 무엇인가?](/HTML-questions/5-building-blocks-of-html5.md)                                                                                            | 아직 시작하지 않았음        |
+| 6    | [쿠키, sessionStorage, localStorage의 차이점은 무엇인가?](/HTML-questions/6-difference-between-cookie-sessionstorage-localstorage.md)                                                                       | 아직 시작하지 않았음        |
+| 7    | [`<script>`, `<script async>`, `<script defer>`의 차이점은 무엇인가?](/HTML-questions/7-difference-between-script-async-defer.md)                                                                           | 아직 시작하지 않았음        |
+| 8    | [CSS `<link>`는 `<head></head>` 사이에, JS `<script>`는 `</body>` 직전에 위치시키는 것이 일반적으로 좋은 아이디어인 이유는 무엇인가? 예외 상황은 알고 있는가?](/HTML-questions/8-position-of-css-and-js.md) | 아직 시작하지 않았음        |
+| 9    | [프로그레시브 렌더링(Progressive Rendering)이란 무엇인가?](/HTML-questions/9-what-is-progressive-rendering.md)                                                                                              | 아직 시작하지 않았음        |
+| 10   | [이미지 태그에서 'srcset' 속성을 사용하는 이유는 무엇인가? 이 속성의 내용을 평가하는 브라우저의 프로세스를 설명하라.](/HTML-questions/10-srcset-attribute-in-an-image-tag.md)                               | 아직 시작하지 않았음        |
+| 11   | [다른 HTML 템플릿 언어를 사용해 본 적이 있는가?](/HTML-questions/11-html-templating-languages.md)                                                                                                           | 아직 시작하지 않았음        |
+| 12   | [캔버스(canvas)와 SVG의 차이점은 무엇인가?](/HTML-questions/12-difference-between-canvas-and-svg.md)                                                                                                        | 아직 시작하지 않았음        |
+| 13   | [HTML에서 빈 요소(empty elements)란 무엇인가?](/HTML-questions/13-what-are-empty-elements-in-html.md)                                                                                                       | 아직 시작하지 않았음        |
 
 <br />
 <br />
 
 ### 2. CSS Questions
 
-| 번호 | 내용                                                                                                                                                          | 상태                 |
+| 번호 | 질문                                                                                                                                                          | 상태                 |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
-| 1번  | [CSS 선택자의 특이성이란 무엇이며 어떻게 작동하나요?](/CSS-questions/1-specificity.md)                                                                        | 아직 시작하지 않았음 |
-| 2번  | ["리셋(resetting)"과 "정규화(normalizing)" CSS의 차이점은 무엇이며, 어떤 것을 선호하며 그 이유는 무엇인가요?](/CSS-questions/2-reset-vs-normalize.md)         | 아직 시작하지 않았음 |
-| 3번  | [플로트(Floats)에 대해 설명하고, 그들이 어떻게 작동하는지 설명해주세요.](/CSS-questions/3-floats.md)                                                          | 아직 시작하지 않았음 |
-| 4번  | [z-index와 스택 문맥이 형성되는 방식에 대해 설명해주세요.](/CSS-questions/4-z-index.md)                                                                       | 아직 시작하지 않았음 |
-| 5번  | [BFC(Block Formatting Context)에 대해 설명하고, 그것이 어떻게 작동하는지 설명해주세요.](/CSS-questions/5-bfc.md)                                              | 아직 시작하지 않았음 |
-| 6번  | [다양한 클리어링 기법들은 무엇이며 어떤 상황에서 어떤 기법이 적합한가요?](/CSS-questions/6-clearing.md)                                                       | 아직 시작하지 않았음 |
-| 7번  | [브라우저 별 스타일링 문제를 해결하는 방식은 무엇인가요?](/CSS-questions/7-browser-issues.md)                                                                 | 아직 시작하지 않았음 |
-| 8번  | [기능이 제한된 브라우저에 페이지를 제공하는 방식은 무엇인가요? 어떤 기술이나 과정을 사용하나요?](/CSS-questions/8-feature-constrained-browsers.md)            | 아직 시작하지 않았음 |
-| 9번  | [시각적으로 컨텐츠를 숨기는 다양한 방법은 무엇이며, 이를 스크린 리더기에서만 사용 가능하게 하는 방법은 무엇인가요?](/CSS-questions/9-hide-content.md)         | 아직 시작하지 않았음 |
-| 10번 | [그리드 시스템을 사용해 본 적이 있는가요? 있다면 어떤 것을 선호하나요?](/CSS-questions/10-grid-system.md)                                                     | 아직 시작하지 않았음 |
-| 11번 | [미디어 쿼리나 모바일 특화 레이아웃/CSS를 사용해 본 적이 있나요?](/CSS-questions/11-media-queries.md)                                                         | 아직 시작하지 않았음 |
-| 12번 | [SVG 스타일링에 익숙한가요?](/CSS-questions/12-styling-svg.md)                                                                                                | 아직 시작하지 않았음 |
-| 13번 | [스크린 외에 다른 @media 속성의 예시를 들 수 있나요?](/CSS-questions/13-media-property.md)                                                                    | 아직 시작하지 않았음 |
-| 14번 | [효율적인 CSS를 작성하기 위한 "주의점"은 무엇인가요?](/CSS-questions/14-css-gotchas.md)                                                                       | 아직 시작하지 않았음 |
-| 15번 | [CSS 전처리기를 사용하는 장단점은 무엇인가요?](/CSS-questions/15-css-preprocessors.md)                                                                        | 아직 시작하지 않았음 |
-| 16번 | [사용했던 CSS 전처리기에 대해 좋았던 점과 싫었던 점을 설명해주세요.](/CSS-questions/16-like-dislike-preprocessors.md)                                         | 아직 시작하지 않았음 |
-| 17번 | [표준이 아닌 글꼴을 사용한 웹 디자인 컴프를 어떻게 구현하나요?](/CSS-questions/17-non-standard-fonts.md)                                                      | 아직 시작하지 않았음 |
-| 18번 | [브라우저가 CSS 선택자와 일치하는 요소를 어떻게 결정하는지 설명해주세요.](/CSS-questions/18-css-selector.md)                                                  | 아직 시작하지 않았음 |
-| 19번 | [가상 요소(pseudo-elements)에 대해 설명하고, 어떤 용도로 사용되는지 설명해주세요.](/CSS-questions/19-pseudo-elements.md)                                      | 아직 시작하지 않았음 |
-| 20번 | [박스 모델에 대한 이해를 설명하고, CSS에서 레이아웃을 다른 박스 모델로 렌더링하도록 브라우저에 지시하는 방법을 설명해주세요.](/CSS-questions/20-box-model.md) | 아직 시작하지 않았음 |
+| 1    | [CSS 선택자의 특이성이란 무엇이며 어떻게 작동하나요?](/CSS-questions/1-specificity.md)                                                                        | 아직 시작하지 않았음 |
+| 2    | ["리셋(resetting)"과 "정규화(normalizing)" CSS의 차이점은 무엇이며, 어떤 것을 선호하며 그 이유는 무엇인가요?](/CSS-questions/2-reset-vs-normalize.md)         | 아직 시작하지 않았음 |
+| 3    | [플로트(Floats)에 대해 설명하고, 그들이 어떻게 작동하는지 설명해주세요.](/CSS-questions/3-floats.md)                                                          | 아직 시작하지 않았음 |
+| 4    | [z-index와 스택 문맥이 형성되는 방식에 대해 설명해주세요.](/CSS-questions/4-z-index.md)                                                                       | 아직 시작하지 않았음 |
+| 5    | [BFC(Block Formatting Context)에 대해 설명하고, 그것이 어떻게 작동하는지 설명해주세요.](/CSS-questions/5-bfc.md)                                              | 아직 시작하지 않았음 |
+| 6    | [다양한 클리어링 기법들은 무엇이며 어떤 상황에서 어떤 기법이 적합한가요?](/CSS-questions/6-clearing.md)                                                       | 아직 시작하지 않았음 |
+| 7    | [브라우저 별 스타일링 문제를 해결하는 방식은 무엇인가요?](/CSS-questions/7-browser-issues.md)                                                                 | 아직 시작하지 않았음 |
+| 8    | [기능이 제한된 브라우저에 페이지를 제공하는 방식은 무엇인가요? 어떤 기술이나 과정을 사용하나요?](/CSS-questions/8-feature-constrained-browsers.md)            | 아직 시작하지 않았음 |
+| 9    | [시각적으로 컨텐츠를 숨기는 다양한 방법은 무엇이며, 이를 스크린 리더기에서만 사용 가능하게 하는 방법은 무엇인가요?](/CSS-questions/9-hide-content.md)         | 아직 시작하지 않았음 |
+| 10   | [그리드 시스템을 사용해 본 적이 있는가요? 있다면 어떤 것을 선호하나요?](/CSS-questions/10-grid-system.md)                                                     | 아직 시작하지 않았음 |
+| 11   | [미디어 쿼리나 모바일 특화 레이아웃/CSS를 사용해 본 적이 있나요?](/CSS-questions/11-media-queries.md)                                                         | 아직 시작하지 않았음 |
+| 12   | [SVG 스타일링에 익숙한가요?](/CSS-questions/12-styling-svg.md)                                                                                                | 아직 시작하지 않았음 |
+| 13   | [스크린 외에 다른 @media 속성의 예시를 들 수 있나요?](/CSS-questions/13-media-property.md)                                                                    | 아직 시작하지 않았음 |
+| 14   | [효율적인 CSS를 작성하기 위한 "주의점"은 무엇인가요?](/CSS-questions/14-css-gotchas.md)                                                                       | 아직 시작하지 않았음 |
+| 15   | [CSS 전처리기를 사용하는 장단점은 무엇인가요?](/CSS-questions/15-css-preprocessors.md)                                                                        | 아직 시작하지 않았음 |
+| 16   | [사용했던 CSS 전처리기에 대해 좋았던 점과 싫었던 점을 설명해주세요.](/CSS-questions/16-like-dislike-preprocessors.md)                                         | 아직 시작하지 않았음 |
+| 17   | [표준이 아닌 글꼴을 사용한 웹 디자인 컴프를 어떻게 구현하나요?](/CSS-questions/17-non-standard-fonts.md)                                                      | 아직 시작하지 않았음 |
+| 18   | [브라우저가 CSS 선택자와 일치하는 요소를 어떻게 결정하는지 설명해주세요.](/CSS-questions/18-css-selector.md)                                                  | 아직 시작하지 않았음 |
+| 19   | [가상 요소(pseudo-elements)에 대해 설명하고, 어떤 용도로 사용되는지 설명해주세요.](/CSS-questions/19-pseudo-elements.md)                                      | 아직 시작하지 않았음 |
+| 20   | [박스 모델에 대한 이해를 설명하고, CSS에서 레이아웃을 다른 박스 모델로 렌더링하도록 브라우저에 지시하는 방법을 설명해주세요.](/CSS-questions/20-box-model.md) | 아직 시작하지 않았음 |
 
 <br />
 <br />
