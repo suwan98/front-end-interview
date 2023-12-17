@@ -34,9 +34,8 @@
 | 8    | [CSS `<link>`는 `<head></head>` 사이에, JS `<script>`는 `</body>` 직전에 위치시키는 것이 일반적으로 좋은 아이디어인 이유는 무엇인가요? 예외 상황은 알고 있나요?](/HTML-questions/8-position-of-css-and-js.md) | 2023-12-16 (토) 작성완료 ✅ |
 | 9    | [프로그레시브 렌더링(Progressive Rendering)이란 무엇인가요?](/HTML-questions/9-what-is-progressive-rendering.md)                                                                                              | 2023-12-16 (토) 작성완료 ✅ |
 | 10   | [이미지 태그에서 'srcset' 속성을 사용하는 이유는 무엇인가요? 이 속성의 내용을 평가하는 브라우저의 프로세스를 설명해주세요.](/HTML-questions/10-srcset-attribute-in-an-image-tag.md)                           | 2023-12-16 (토) 작성완료 ✅ |
-| 11   | [요다른 HTML 템플릿 언어를 사용해 본 적이 있는가?](/HTML-questions/11-html-templating-languages.md)                                                                                                           | 2023-12-16 (토) 작성완료 ✅ |
-| 12   | [캔버스(canvas)와 SVG의 차이점은 무엇인가요?](/HTML-questions/12-difference-between-canvas-and-svg.md)                                                                                                        | 2023-12-16 (토) 작성완료 ✅ |
-| 13   | [HTML에서 빈 요소(empty elements)란 무엇인가요?](/HTML-questions/13-what-are-empty-elements-in-html.md)                                                                                                       | 2023-12-16 (토) 작성완료 ✅ |
+| 11   | [캔버스(canvas)와 SVG의 차이점은 무엇인가요?](/HTML-questions/12-difference-between-canvas-and-svg.md)                                                                                                        | 2023-12-16 (토) 작성완료 ✅ |
+| 12   | [HTML에서 빈 요소(empty elements)란 무엇인가요?](/HTML-questions/13-what-are-empty-elements-in-html.md)                                                                                                       | 2023-12-16 (토) 작성완료 ✅ |
 
 <br />
 <br />
@@ -45,7 +44,7 @@
 
 | 번호 | 질문                                                                                                                                                          | 상태                 |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
-| 1    | [CSS 선택자의 특이성이란 무엇이며 어떻게 작동하나요?](/CSS-questions/1-specificity.md)                                                                        | 아직 시작하지 않았음 |
+| 1    | [CSS 선택자의 우선순위란 무엇이며 어떻게 작동하나요?](/CSS-questions/1-specificity.md)                                                                        | 아직 시작하지 않았음 |
 | 2    | ["리셋(resetting)"과 "정규화(normalizing)" CSS의 차이점은 무엇이며, 어떤 것을 선호하며 그 이유는 무엇인가요?](/CSS-questions/2-reset-vs-normalize.md)         | 아직 시작하지 않았음 |
 | 3    | [플로트(Floats)에 대해 설명하고, 그들이 어떻게 작동하는지 설명해주세요.](/CSS-questions/3-floats.md)                                                          | 아직 시작하지 않았음 |
 | 4    | [z-index와 스택 문맥이 형성되는 방식에 대해 설명해주세요.](/CSS-questions/4-z-index.md)                                                                       | 아직 시작하지 않았음 |
