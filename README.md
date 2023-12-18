@@ -42,28 +42,28 @@
 
 ### 2. CSS Questions
 
-| 번호 | 질문                                                                                                                                                          | 상태                 |
-| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
-| 1    | [CSS 선택자의 우선순위란 무엇이며 어떻게 작동하나요?](/CSS-questions/1-specificity.md)                                                                        | 아직 시작하지 않았음 |
-| 2    | ["리셋(resetting)"과 "정규화(normalizing)" CSS의 차이점은 무엇이며, 어떤 것을 선호하며 그 이유는 무엇인가요?](/CSS-questions/2-reset-vs-normalize.md)         | 아직 시작하지 않았음 |
-| 3    | [플로트(Floats)에 대해 설명하고, 그들이 어떻게 작동하는지 설명해주세요.](/CSS-questions/3-floats.md)                                                          | 아직 시작하지 않았음 |
-| 4    | [z-index와 스택 문맥이 형성되는 방식에 대해 설명해주세요.](/CSS-questions/4-z-index.md)                                                                       | 아직 시작하지 않았음 |
-| 5    | [BFC(Block Formatting Context)에 대해 설명하고, 그것이 어떻게 작동하는지 설명해주세요.](/CSS-questions/5-bfc.md)                                              | 아직 시작하지 않았음 |
-| 6    | [다양한 클리어링 기법들은 무엇이며 어떤 상황에서 어떤 기법이 적합한가요?](/CSS-questions/6-clearing.md)                                                       | 아직 시작하지 않았음 |
-| 7    | [브라우저 별 스타일링 문제를 해결하는 방식은 무엇인가요?](/CSS-questions/7-browser-issues.md)                                                                 | 아직 시작하지 않았음 |
-| 8    | [기능이 제한된 브라우저에 페이지를 제공하는 방식은 무엇인가요? 어떤 기술이나 과정을 사용하나요?](/CSS-questions/8-feature-constrained-browsers.md)            | 아직 시작하지 않았음 |
-| 9    | [시각적으로 컨텐츠를 숨기는 다양한 방법은 무엇이며, 이를 스크린 리더기에서만 사용 가능하게 하는 방법은 무엇인가요?](/CSS-questions/9-hide-content.md)         | 아직 시작하지 않았음 |
-| 10   | [그리드 시스템을 사용해 본 적이 있는가요? 있다면 어떤 것을 선호하나요?](/CSS-questions/10-grid-system.md)                                                     | 아직 시작하지 않았음 |
-| 11   | [미디어 쿼리나 모바일 특화 레이아웃/CSS를 사용해 본 적이 있나요?](/CSS-questions/11-media-queries.md)                                                         | 아직 시작하지 않았음 |
-| 12   | [SVG 스타일링에 익숙한가요?](/CSS-questions/12-styling-svg.md)                                                                                                | 아직 시작하지 않았음 |
-| 13   | [스크린 외에 다른 @media 속성의 예시를 들 수 있나요?](/CSS-questions/13-media-property.md)                                                                    | 아직 시작하지 않았음 |
-| 14   | [효율적인 CSS를 작성하기 위한 "주의점"은 무엇인가요?](/CSS-questions/14-css-gotchas.md)                                                                       | 아직 시작하지 않았음 |
-| 15   | [CSS 전처리기를 사용하는 장단점은 무엇인가요?](/CSS-questions/15-css-preprocessors.md)                                                                        | 아직 시작하지 않았음 |
-| 16   | [사용했던 CSS 전처리기에 대해 좋았던 점과 싫었던 점을 설명해주세요.](/CSS-questions/16-like-dislike-preprocessors.md)                                         | 아직 시작하지 않았음 |
-| 17   | [표준이 아닌 글꼴을 사용한 웹 디자인 컴프를 어떻게 구현하나요?](/CSS-questions/17-non-standard-fonts.md)                                                      | 아직 시작하지 않았음 |
-| 18   | [브라우저가 CSS 선택자와 일치하는 요소를 어떻게 결정하는지 설명해주세요.](/CSS-questions/18-css-selector.md)                                                  | 아직 시작하지 않았음 |
-| 19   | [가상 요소(pseudo-elements)에 대해 설명하고, 어떤 용도로 사용되는지 설명해주세요.](/CSS-questions/19-pseudo-elements.md)                                      | 아직 시작하지 않았음 |
-| 20   | [박스 모델에 대한 이해를 설명하고, CSS에서 레이아웃을 다른 박스 모델로 렌더링하도록 브라우저에 지시하는 방법을 설명해주세요.](/CSS-questions/20-box-model.md) | 아직 시작하지 않았음 |
+| 번호 | 질문                                                                                                                                                          | 상태                        |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
+| 1    | [CSS 선택자의 우선순위란 무엇이며 어떻게 작동하나요?](/CSS-questions/1-specificity.md)                                                                        | 2023-12-17 (일) 작성완료 ✅ |
+| 2    | ["리셋(resetting)"과 "정규화(normalizing)" CSS의 차이점은 무엇이며, 어떤 것을 선호하며 그 이유는 무엇인가요?](/CSS-questions/2-reset-vs-normalize.md)         | 2023-12-18 (월) 작성완료 ✅ |
+| 3    | [플로트(Floats)에 대해 설명하고, 그들이 어떻게 작동하는지 설명해주세요.](/CSS-questions/3-floats.md)                                                          | 아직 시작하지 않았음        |
+| 4    | [z-index와 스택 문맥이 형성되는 방식에 대해 설명해주세요.](/CSS-questions/4-z-index.md)                                                                       | 아직 시작하지 않았음        |
+| 5    | [BFC(Block Formatting Context)에 대해 설명하고, 그것이 어떻게 작동하는지 설명해주세요.](/CSS-questions/5-bfc.md)                                              | 아직 시작하지 않았음        |
+| 6    | [다양한 클리어링 기법들은 무엇이며 어떤 상황에서 어떤 기법이 적합한가요?](/CSS-questions/6-clearing.md)                                                       | 아직 시작하지 않았음        |
+| 7    | [브라우저 별 스타일링 문제를 해결하는 방식은 무엇인가요?](/CSS-questions/7-browser-issues.md)                                                                 | 아직 시작하지 않았음        |
+| 8    | [기능이 제한된 브라우저에 페이지를 제공하는 방식은 무엇인가요? 어떤 기술이나 과정을 사용하나요?](/CSS-questions/8-feature-constrained-browsers.md)            | 아직 시작하지 않았음        |
+| 9    | [시각적으로 컨텐츠를 숨기는 다양한 방법은 무엇이며, 이를 스크린 리더기에서만 사용 가능하게 하는 방법은 무엇인가요?](/CSS-questions/9-hide-content.md)         | 아직 시작하지 않았음        |
+| 10   | [그리드 시스템을 사용해 본 적이 있는가요? 있다면 어떤 것을 선호하나요?](/CSS-questions/10-grid-system.md)                                                     | 아직 시작하지 않았음        |
+| 11   | [미디어 쿼리나 모바일 특화 레이아웃/CSS를 사용해 본 적이 있나요?](/CSS-questions/11-media-queries.md)                                                         | 아직 시작하지 않았음        |
+| 12   | [SVG 스타일링에 익숙한가요?](/CSS-questions/12-styling-svg.md)                                                                                                | 아직 시작하지 않았음        |
+| 13   | [스크린 외에 다른 @media 속성의 예시를 들 수 있나요?](/CSS-questions/13-media-property.md)                                                                    | 아직 시작하지 않았음        |
+| 14   | [효율적인 CSS를 작성하기 위한 "주의점"은 무엇인가요?](/CSS-questions/14-css-gotchas.md)                                                                       | 아직 시작하지 않았음        |
+| 15   | [CSS 전처리기를 사용하는 장단점은 무엇인가요?](/CSS-questions/15-css-preprocessors.md)                                                                        | 아직 시작하지 않았음        |
+| 16   | [사용했던 CSS 전처리기에 대해 좋았던 점과 싫었던 점을 설명해주세요.](/CSS-questions/16-like-dislike-preprocessors.md)                                         | 아직 시작하지 않았음        |
+| 17   | [표준이 아닌 글꼴을 사용한 웹 디자인 컴프를 어떻게 구현하나요?](/CSS-questions/17-non-standard-fonts.md)                                                      | 아직 시작하지 않았음        |
+| 18   | [브라우저가 CSS 선택자와 일치하는 요소를 어떻게 결정하는지 설명해주세요.](/CSS-questions/18-css-selector.md)                                                  | 아직 시작하지 않았음        |
+| 19   | [가상 요소(pseudo-elements)에 대해 설명하고, 어떤 용도로 사용되는지 설명해주세요.](/CSS-questions/19-pseudo-elements.md)                                      | 아직 시작하지 않았음        |
+| 20   | [박스 모델에 대한 이해를 설명하고, CSS에서 레이아웃을 다른 박스 모델로 렌더링하도록 브라우저에 지시하는 방법을 설명해주세요.](/CSS-questions/20-box-model.md) | 아직 시작하지 않았음        |
 
 <br />
 <br />
