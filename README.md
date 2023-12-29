@@ -49,7 +49,7 @@
 | 3    | [플로트(Floats)에 대해 설명하고, 그들이 어떻게 작동하는지 설명해주세요.](/CSS-questions/3-floats.md)                                                          | 2023-12-18 (월) 작성완료 ✅ |
 | 4    | [z-index와 스택 문맥이 형성되는 방식에 대해 설명해주세요.](/CSS-questions/4-z-index.md)                                                                       | 2023-12-18 (월) 작성완료 ✅ |
 | 5    | [BFC(Block Formatting Context)에 대해 설명하고, 그것이 어떻게 작동하는지 설명해주세요.](/CSS-questions/5-bfc.md)                                              | 2023-12-18 (월) 작성완료 ✅ |
-| 6    | [다양한 클리어링 기법들은 무엇이며 어떤 상황에서 어떤 기법이 적합한가요?](/CSS-questions/6-clearing.md)                                                       | 아직 시작하지 않았음        |
+| 6    | [다양한 클리어링 기법들은 무엇이며 어떤 상황에서 어떤 기법이 적합한가요?](/CSS-questions/6-clearing.md)                                                       | 2023-12-29 (금) 작성완료 ✅ |
 | 7    | [브라우저 별 스타일링 문제를 해결하는 방식은 무엇인가요?](/CSS-questions/7-browser-issues.md)                                                                 | 아직 시작하지 않았음        |
 | 8    | [기능이 제한된 브라우저에 페이지를 제공하는 방식은 무엇인가요? 어떤 기술이나 과정을 사용하나요?](/CSS-questions/8-feature-constrained-browsers.md)            | 아직 시작하지 않았음        |
 | 9    | [시각적으로 컨텐츠를 숨기는 다양한 방법은 무엇이며, 이를 스크린 리더기에서만 사용 가능하게 하는 방법은 무엇인가요?](/CSS-questions/9-hide-content.md)         | 아직 시작하지 않았음        |
