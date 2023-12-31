@@ -57,10 +57,9 @@
 | 11   | [효율적인 CSS를 작성하기 위한 "주의점"은 무엇인가요?](/CSS-questions/11-css-gotchas.md)                                                                       | 2023-12-31 (일) 작성완료 ✅ |
 | 12   | [CSS 전처리기를 사용하는 장단점은 무엇인가요?](/CSS-questions/12-css-preprocessors.md)                                                                        | 2023-12-31 (일) 작성완료 ✅ |
 | 13   | [사용했던 CSS 전처리기에 대해 좋았던 점과 싫었던 점을 설명해주세요.](/CSS-questions/13-like-dislike-preprocessors.md)                                         | 2023-12-31 (일) 작성완료 ✅ |
-| 14   | [표준이 아닌 글꼴을 사용한 웹 디자인 컴프를 어떻게 구현하나요?](/CSS-questions/14-non-standard-fonts.md)                                                      | 아직 시작하지 않았음        |
-| 15   | [브라우저가 CSS 선택자와 일치하는 요소를 어떻게 결정하는지 설명해주세요.](/CSS-questions/15-css-selector.md)                                                  | 아직 시작하지 않았음        |
-| 16   | [가상 요소(pseudo-elements)에 대해 설명하고, 어떤 용도로 사용되는지 설명해주세요.](/CSS-questions/16-pseudo-elements.md)                                      | 아직 시작하지 않았음        |
-| 17   | [박스 모델에 대한 이해를 설명하고, CSS에서 레이아웃을 다른 박스 모델로 렌더링하도록 브라우저에 지시하는 방법을 설명해주세요.](/CSS-questions/17-box-model.md) | 아직 시작하지 않았음        |
+| 14   | [브라우저가 CSS 선택자와 일치하는 요소를 어떻게 결정하는지 설명해주세요.](/CSS-questions/14-css-selector.md)                                                  | 2023-12-31 (일) 작성완료 ✅ |
+| 15   | [가상 요소(pseudo-elements)에 대해 설명하고, 어떤 용도로 사용되는지 설명해주세요.](/CSS-questions/15-pseudo-elements.md)                                      | 2023-12-31 (일) 작성완료 ✅ |
+| 16   | [박스 모델에 대한 이해를 설명하고, CSS에서 레이아웃을 다른 박스 모델로 렌더링하도록 브라우저에 지시하는 방법을 설명해주세요.](/CSS-questions/16-box-model.md) | 2023-12-31 (일) 작성완료 ✅ |
 
 <br />
 <br />
