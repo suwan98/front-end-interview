@@ -50,12 +50,12 @@
 | 4    | [z-index와 스택 문맥이 형성되는 방식에 대해 설명해주세요.](/CSS-questions/4-z-index.md)                                                                       | 2023-12-18 (월) 작성완료 ✅ |
 | 5    | [BFC(Block Formatting Context)에 대해 설명하고, 그것이 어떻게 작동하는지 설명해주세요.](/CSS-questions/5-bfc.md)                                              | 2023-12-18 (월) 작성완료 ✅ |
 | 6    | [다양한 클리어링 기법들은 무엇이며 어떤 상황에서 어떤 기법이 적합한가요?](/CSS-questions/6-clearing.md)                                                       | 2023-12-29 (금) 작성완료 ✅ |
-| 7    | [브라우저 별 스타일링 문제를 해결하는 방식은 무엇인가요?](/CSS-questions/7-browser-issues.md)                                                                 | 아직 시작하지 않았음        |
-| 8    | [기능이 제한된 브라우저에 페이지를 제공하는 방식은 무엇인가요? 어떤 기술이나 과정을 사용하나요?](/CSS-questions/8-feature-constrained-browsers.md)            | 아직 시작하지 않았음        |
-| 9    | [시각적으로 컨텐츠를 숨기는 다양한 방법은 무엇이며, 이를 스크린 리더기에서만 사용 가능하게 하는 방법은 무엇인가요?](/CSS-questions/9-hide-content.md)         | 아직 시작하지 않았음        |
-| 10   | [그리드 시스템을 사용해 본 적이 있는가요? 있다면 어떤 것을 선호하나요?](/CSS-questions/10-grid-system.md)                                                     | 아직 시작하지 않았음        |
-| 11   | [미디어 쿼리나 모바일 특화 레이아웃/CSS를 사용해 본 적이 있나요?](/CSS-questions/11-media-queries.md)                                                         | 아직 시작하지 않았음        |
-| 12   | [SVG 스타일링에 익숙한가요?](/CSS-questions/12-styling-svg.md)                                                                                                | 아직 시작하지 않았음        |
+| 7    | [브라우저 별 스타일링 문제를 해결하는 방식은 무엇인가요?](/CSS-questions/7-browser-issues.md)                                                                 | 2023-12-31 (일) 작성완료 ✅ |
+| 8    | [기능이 제한된 브라우저에 페이지를 제공하는 방식은 무엇인가요? 어떤 기술이나 과정을 사용하나요?](/CSS-questions/8-feature-constrained-browsers.md)            | 2023-12-31 (일) 작성완료 ✅ |
+| 9    | [시각적으로 컨텐츠를 숨기는 다양한 방법은 무엇이며, 이를 스크린 리더기에서만 사용 가능하게 하는 방법은 무엇인가요?](/CSS-questions/9-hide-content.md)         | 2023-12-31 (일) 작성완료 ✅ |
+| 10   | [그리드 시스템을 사용해 본 적이 있는가요? 있다면 어떤 것을 선호하나요?](/CSS-questions/10-grid-system.md)                                                     | 2023-12-31 (일) 작성완료 ✅ |
+| 11   | [미디어 쿼리나 모바일 특화 레이아웃/CSS를 사용해 본 적이 있나요?](/CSS-questions/11-media-queries.md)                                                         | 2023-12-31 (일) 작성완료 ✅ |
+| 12   | [SVG 스타일링에 익숙한가요?](/CSS-questions/12-styling-svg.md)                                                                                                | 2023-12-31 (일) 작성완료 ✅ |
 | 13   | [스크린 외에 다른 @media 속성의 예시를 들 수 있나요?](/CSS-questions/13-media-property.md)                                                                    | 아직 시작하지 않았음        |
 | 14   | [효율적인 CSS를 작성하기 위한 "주의점"은 무엇인가요?](/CSS-questions/14-css-gotchas.md)                                                                       | 아직 시작하지 않았음        |
 | 15   | [CSS 전처리기를 사용하는 장단점은 무엇인가요?](/CSS-questions/15-css-preprocessors.md)                                                                        | 아직 시작하지 않았음        |
