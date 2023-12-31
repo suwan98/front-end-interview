@@ -53,17 +53,14 @@
 | 7    | [브라우저 별 스타일링 문제를 해결하는 방식은 무엇인가요?](/CSS-questions/7-browser-issues.md)                                                                 | 2023-12-31 (일) 작성완료 ✅ |
 | 8    | [기능이 제한된 브라우저에 페이지를 제공하는 방식은 무엇인가요? 어떤 기술이나 과정을 사용하나요?](/CSS-questions/8-feature-constrained-browsers.md)            | 2023-12-31 (일) 작성완료 ✅ |
 | 9    | [시각적으로 컨텐츠를 숨기는 다양한 방법은 무엇이며, 이를 스크린 리더기에서만 사용 가능하게 하는 방법은 무엇인가요?](/CSS-questions/9-hide-content.md)         | 2023-12-31 (일) 작성완료 ✅ |
-| 10   | [그리드 시스템을 사용해 본 적이 있는가요? 있다면 어떤 것을 선호하나요?](/CSS-questions/10-grid-system.md)                                                     | 2023-12-31 (일) 작성완료 ✅ |
-| 11   | [미디어 쿼리나 모바일 특화 레이아웃/CSS를 사용해 본 적이 있나요?](/CSS-questions/11-media-queries.md)                                                         | 2023-12-31 (일) 작성완료 ✅ |
-| 12   | [SVG 스타일링에 익숙한가요?](/CSS-questions/12-styling-svg.md)                                                                                                | 2023-12-31 (일) 작성완료 ✅ |
-| 13   | [스크린 외에 다른 @media 속성의 예시를 들 수 있나요?](/CSS-questions/13-media-property.md)                                                                    | 아직 시작하지 않았음        |
-| 14   | [효율적인 CSS를 작성하기 위한 "주의점"은 무엇인가요?](/CSS-questions/14-css-gotchas.md)                                                                       | 아직 시작하지 않았음        |
-| 15   | [CSS 전처리기를 사용하는 장단점은 무엇인가요?](/CSS-questions/15-css-preprocessors.md)                                                                        | 아직 시작하지 않았음        |
-| 16   | [사용했던 CSS 전처리기에 대해 좋았던 점과 싫었던 점을 설명해주세요.](/CSS-questions/16-like-dislike-preprocessors.md)                                         | 아직 시작하지 않았음        |
-| 17   | [표준이 아닌 글꼴을 사용한 웹 디자인 컴프를 어떻게 구현하나요?](/CSS-questions/17-non-standard-fonts.md)                                                      | 아직 시작하지 않았음        |
-| 18   | [브라우저가 CSS 선택자와 일치하는 요소를 어떻게 결정하는지 설명해주세요.](/CSS-questions/18-css-selector.md)                                                  | 아직 시작하지 않았음        |
-| 19   | [가상 요소(pseudo-elements)에 대해 설명하고, 어떤 용도로 사용되는지 설명해주세요.](/CSS-questions/19-pseudo-elements.md)                                      | 아직 시작하지 않았음        |
-| 20   | [박스 모델에 대한 이해를 설명하고, CSS에서 레이아웃을 다른 박스 모델로 렌더링하도록 브라우저에 지시하는 방법을 설명해주세요.](/CSS-questions/20-box-model.md) | 아직 시작하지 않았음        |
+| 10   | [스크린 외에 다른 @media 속성의 예시를 들 수 있나요?](/CSS-questions/10-media-property.md)                                                                    | 2023-12-31 (일) 작성완료 ✅ |
+| 11   | [효율적인 CSS를 작성하기 위한 "주의점"은 무엇인가요?](/CSS-questions/11-css-gotchas.md)                                                                       | 2023-12-31 (일) 작성완료 ✅ |
+| 12   | [CSS 전처리기를 사용하는 장단점은 무엇인가요?](/CSS-questions/12-css-preprocessors.md)                                                                        | 2023-12-31 (일) 작성완료 ✅ |
+| 13   | [사용했던 CSS 전처리기에 대해 좋았던 점과 싫었던 점을 설명해주세요.](/CSS-questions/13-like-dislike-preprocessors.md)                                         | 2023-12-31 (일) 작성완료 ✅ |
+| 14   | [표준이 아닌 글꼴을 사용한 웹 디자인 컴프를 어떻게 구현하나요?](/CSS-questions/14-non-standard-fonts.md)                                                      | 아직 시작하지 않았음        |
+| 15   | [브라우저가 CSS 선택자와 일치하는 요소를 어떻게 결정하는지 설명해주세요.](/CSS-questions/15-css-selector.md)                                                  | 아직 시작하지 않았음        |
+| 16   | [가상 요소(pseudo-elements)에 대해 설명하고, 어떤 용도로 사용되는지 설명해주세요.](/CSS-questions/16-pseudo-elements.md)                                      | 아직 시작하지 않았음        |
+| 17   | [박스 모델에 대한 이해를 설명하고, CSS에서 레이아웃을 다른 박스 모델로 렌더링하도록 브라우저에 지시하는 방법을 설명해주세요.](/CSS-questions/17-box-model.md) | 아직 시작하지 않았음        |
 
 <br />
 <br />
