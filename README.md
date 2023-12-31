@@ -57,7 +57,7 @@
 | 11   | [효율적인 CSS를 작성하기 위한 "주의점"은 무엇인가요?](/CSS-questions/11-css-gotchas.md)                                                                       | 2023-12-31 (일) 작성완료 ✅ |
 | 12   | [CSS 전처리기를 사용하는 장단점은 무엇인가요?](/CSS-questions/12-css-preprocessors.md)                                                                        | 2023-12-31 (일) 작성완료 ✅ |
 | 13   | [브라우저가 CSS 선택자와 일치하는 요소를 어떻게 결정하는지 설명해주세요.](/CSS-questions/13-css-selector.md)                                                  | 2023-12-31 (일) 작성완료 ✅ |
-| 14   | [가상 요소(pseudo-elements)에 대해 설명하고, 어떤 용도로 사용되는지 설명해주세요.](/CSS-questions/14-pseudo-elements.md)                                      | 2023-12-31 (일) 작성완료 ✅ |
+| 14   | [가상 요소(pseudo-elements) 선택자에 대해 설명하고, 어떤 용도로 사용되는지 설명해주세요.](/CSS-questions/14-pseudo-elements.md)                               | 2023-12-31 (일) 작성완료 ✅ |
 | 15   | [박스 모델에 대한 이해를 설명하고, CSS에서 레이아웃을 다른 박스 모델로 렌더링하도록 브라우저에 지시하는 방법을 설명해주세요.](/CSS-questions/15-box-model.md) | 2023-12-31 (일) 작성완료 ✅ |
 
 <br />
