@@ -28,7 +28,7 @@
 - 박스와 인접한 다르박스와의 외부 공간입니다.
 - 마진은 배경색이나 이미지가 없는 투명한 영역입니다.
 
-![Alt text](assets/css-question-images/box-model.png)
+![Alt text](./../assets/css-question-images/box-model.png)
 
 ### CSS에서는 `box-sizing` 속성을 통해, 브라우저에게 요소의 박스 모델을 어떻게 렌더링할 것인지를 적용할 수 있습니다.
 
