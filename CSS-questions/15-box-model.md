@@ -30,6 +30,8 @@
 
 ![Alt text](./../assets/css-question-images/box-model.png)
 
+<br />
+
 ### CSS에서는 `box-sizing` 속성을 통해, 브라우저에게 요소의 박스 모델을 어떻게 렌더링할 것인지를 적용할 수 있습니다.
 
 - 기본적으로 `CSS`의 박스 모델은 `content-box`로 설정되며, 이는 너비와 높이가 콘텐츠 영역만을 포함한다는것을 의미합니다.
