@@ -72,7 +72,7 @@
 | 3    | [null, undefined, undeclared 변수의 차이는 무엇이며, 각 상태를 확인하는 방법은 무엇인가요?](./javascript-questions/3-variable-diffrence.md)            | 2024-1-1 (월) 작성완료 ✅ |
 | 4    | [클로저는 정확히 무엇이며, 왜 및 어떻게 사용되나요?](./javascript-questions/4-closure.md)                                                              | 2024-1-2 (화) 작성완료 ✅ |
 | 5    | [오브젝트 프로퍼티와 배열 항목을 반복할 때 어떤 언어 구성을 사용하나요?](./javascript-questions/5-loop.md)                                             | 2024-1-2 (화) 작성완료 ✅ |
-| 6    | [Array.forEach() 루프와 Array.map() 메서드의 주요 차이는 무엇이며, 언제 어떤 것을 선택해야 하나요?](./javascript-questions/6-forEact-map-diffrence.md) | 2024-1-2 (화) 작성완료 ✅ |
+| 6    | [Array.forEach() 루프와 Array.map() 메서드의 주요 차이는 무엇이며, 언제 어떤 것을 선택해야 하나요?](./javascript-questions/6-forEach-map-diffrence.md) | 2024-1-2 (화) 작성완료 ✅ |
 | 7    | 익명 함수의 전형적인 사용 사례는 무엇인가요?                                                                                                           | 아직 시작하지 않았음      |
 | 8    | 호스트 객체와 네이티브 객체의 차이는 무엇인가요?                                                                                                       | 아직 시작하지 않았음      |
 | 9    | Person 함수, var person = Person(), var person = new Person()의 차이는 무엇인가요?                                                                     | 아직 시작하지 않았음      |
