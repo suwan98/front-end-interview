@@ -75,7 +75,7 @@
 | 6    | [Array.forEach() 루프와 Array.map() 메서드의 주요 차이는 무엇이며, 언제 어떤 것을 선택해야 하나요?](./javascript-questions/6-forEach-map-diffrence.md) | 2024-1-2 (화) 작성완료 ✅ |
 | 7    | [익명 함수의 사용 사례는 무엇인가요?](./javascript-questions/7-anonymous-function.md)                                                                  | 2024-1-3 (수) 작성완료 ✅ |
 | 8    | [호스트 객체와 네이티브 객체의 차이는 무엇인가요?](./javascript-questions/8-host-object-navite-object.md)                                              | 2024-1-3 (수) 작성완료 ✅ |
-| 9    | [Person 함수, var person = Person(), var person = new Person()의 차이는 무엇인가요?](./javascript-questions/9-function-diffrence.md)                   | 2024-1-3 (수) 작성완료 ✅ |
+| 9    | [var person = Person(), var person = new Person()의 차이는 무엇인가요?](./javascript-questions/9-function-diffrence.md)                                | 2024-1-3 (수) 작성완료 ✅ |
 | 10   | function foo() {}와 var foo = function() {}의 foo 사용 차이는 무엇인가요?                                                                              | 아직 시작하지 않았음      |
 | 11   | Function.call과 Function.apply의 차이는 무엇이며, 두 메서드 간의 주요 차이는 무엇인가요?                                                               | 아직 시작하지 않았음      |
 | 12   | Function.prototype.bind에 대해 설명해주실 수 있을까요?                                                                                                 | 아직 시작하지 않았음      |
