@@ -80,11 +80,11 @@
 | 11   | [Function.call과 Function.apply의 차이는 무엇이며, 두 메서드 간의 주요 차이는 무엇인가요?](./javascript-questions/11-call-apply-diffrence.md)                                   | 2024-1-4 (목) 작성완료 ✅ |
 | 12   | [Function.prototype.bind에 대해 설명해주실 있을까요?](./javascript-questions/12-bind.md)                                                                                        | 2024-1-4 (목) 작성완료 ✅ |
 | 13   | [호이스팅이 정확히 무엇인가요?](./javascript-questions/13-hoisting.md)                                                                                                          | 2024-1-5 (금) 작성완료 ✅ |
-| 14   | [타입 강제 변환은 어떤 것이며, JavaScript 코드에서 타입 강제 변환타입 강제 변환 시 주의해야 할 일반적인 함정은 무엇인가요?](./javascript-questions/14.type-implicit-conversion) | 2024-1-5 (금) 작성완료 ✅ |
+| 14   | [타입 강제 변환은 어떤 것이며, JavaScript 코드에서 타입 강제 변환타입 강제 변환 시 주의해야 할 일반적인 함정은 무엇인가요?](./javascript-questions/14-type-implicit-conversion) | 2024-1-5 (금) 작성완료 ✅ |
 | 15   | [이벤트 버블링에 대해 설명해주실 수 있을까요? ](./javascript-questions/15-event-bubbling.md)                                                                                    | 2024-1-5 (금) 작성완료 ✅ |
 | 16   | [이벤트 캡처링에 대해 설명해주실 수 있을까요?](./javascript-questions/16-event-caputring.md)                                                                                    | 2024-1-6 (토) 작성완료 ✅ |
-| 17   | ["속성"과 "프로퍼티"의 차이는 무엇인가요? ](./javascript-questions/17-attribute-property-diffrence)                                                                             | 2024-1-6 (토) 작성완료 ✅ |
-| 18   | [내장 JavaScript 객체 확장의 장단점은 무엇인가요? ](./javascript-questions/18-inner-js-object)                                                                                  | 2024-1-6 (토) 작성완료 ✅ |
+| 17   | ["속성"과 "프로퍼티"의 차이는 무엇인가요? ](./javascript-questions/17-attribute-property-diffrence.md)                                                                          | 2024-1-6 (토) 작성완료 ✅ |
+| 18   | [내장 JavaScript 객체 확장의 장단점은 무엇인가요? ](./javascript-questions/18-inner-js-object.md)                                                                               | 2024-1-6 (토) 작성완료 ✅ |
 | 19   | ==와 ===의 차이는 무엇인가요?                                                                                                                                                   | 아직 시작하지 않았음      |
 | 20   | JavaScript에서 동일 출처 정책에 대해 설명해주실 수 있을까요?                                                                                                                    | 아직 시작하지 않았음      |
 | 21   | 삼항 연산자를 '삼항'이라고 부르는 이유는 무엇인가요?                                                                                                                            | 아직 시작하지 않았음      |
