@@ -84,8 +84,8 @@
 | 15   | [이벤트 버블링에 대해 설명해주실 수 있을까요? ](./javascript-questions/15-event-bubbling.md)                                                                                    | 2024-1-5 (금) 작성완료 ✅ |
 | 16   | [이벤트 캡처링에 대해 설명해주실 수 있을까요?](./javascript-questions/16-event-caputring.md)                                                                                    | 2024-1-6 (토) 작성완료 ✅ |
 | 17   | ["속성"과 "프로퍼티"의 차이는 무엇인가요? ](./javascript-questions/17-attribute-property-diffrence.md)                                                                          | 2024-1-6 (토) 작성완료 ✅ |
-| 18   | [==와 ===의 차이는 무엇인가요?]('./javascript-questions/18-comparison-operator.md)                                                                                              | 아직 시작하지 않았음      |
-| 19   | JavaScript에서 동일 출처 정책에 대해 설명해주실 수 있을까요?                                                                                                                    | 아직 시작하지 않았음      |
+| 18   | [==와 ===의 차이는 무엇인가요?]('./javascript-questions/18-comparison-operator.md)                                                                                              | 2024-1-7 (일) 작성완료 ✅ |
+| 19   | [JavaScript에서 동일 출처 정책에 대해 설명해주실 수 있을까요?](./javascript-question/19-same-origin-policy.md)                                                                  | 2024-1-7 (일) 작성완료 ✅ |
 | 20   | 삼항 연산자를 '삼항'이라고 부르는 이유는 무엇인가요?                                                                                                                            | 아직 시작하지 않았음      |
 | 21   | 엄격 모드의 정의 및 사용의 장단점은 무엇인가요?                                                                                                                                 | 아직 시작하지 않았음      |
 | 22   | JavaScript 코드를 JavaScript로 컴파일하는 언어에서 쓰는 장단점은 무엇인가요?                                                                                                    | 아직 시작하지 않았음      |
