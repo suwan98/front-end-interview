@@ -86,9 +86,9 @@
 | 17   | ["속성"과 "프로퍼티"의 차이는 무엇인가요? ](./javascript-questions/17-attribute-property-diffrence.md)                                                                          | 2024-1-6 (토) 작성완료 ✅ |
 | 18   | [==와 ===의 차이는 무엇인가요?]('./javascript-questions/18-comparison-operator.md)                                                                                              | 2024-1-7 (일) 작성완료 ✅ |
 | 19   | [JavaScript에서 동일 출처 정책에 대해 설명해주실 수 있을까요?](./javascript-question/19-same-origin-policy.md)                                                                  | 2024-1-7 (일) 작성완료 ✅ |
-| 20   | 삼항 연산자를 '삼항'이라고 부르는 이유는 무엇인가요?                                                                                                                            | 아직 시작하지 않았음      |
-| 21   | 엄격 모드의 정의 및 사용의 장단점은 무엇인가요?                                                                                                                                 | 아직 시작하지 않았음      |
-| 22   | JavaScript 코드를 JavaScript로 컴파일하는 언어에서 쓰는 장단점은 무엇인가요?                                                                                                    | 아직 시작하지 않았음      |
+| 20   | [삼항 연산자를 '삼항'이라고 부르는 이유는 무엇인가요?](./javascript-question/20-ternary-operator.md)                                                                            | 2024-1-8 (월) 작성완료 ✅ |
+| 21   | [엄격 모드의 정의 및 사용의 장단점은 무엇인가요?](./javascript-question/21-strict-mode.md)                                                                                      | 2024-1-8 (월) 작성완료 ✅ |
+| 22   | [JavaScript 코드를 JavaScript로 컴파일하는 언어에서 쓰는 장단점은 무엇인가요? ](./javascript-question/22-compile-javascript.md)                                                 | 2024-1-8 (월) 작성완료 ✅ |
 | 23   | JavaScript 코드를 디버깅하는 데 사용하는 도구 및 기술은 무엇인가요?                                                                                                             | 아직 시작하지 않았음      |
 | 24   | 가변 및 불변 객체의 차이는 무엇인가요?                                                                                                                                          | 아직 시작하지 않았음      |
 | 25   | JavaScript에서 불변 객체의 예시는 무엇인가요?                                                                                                                                   | 아직 시작하지 않았음      |
