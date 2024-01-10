@@ -65,51 +65,51 @@
 
 ### 3. JavaScript Questions
 
-| 번호 | 질문                                                                                                                                                                            | 상태                      |
-| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
-| 1    | [이벤트 위임이란 무엇이며, JavaScript에서 어떻게 작동하는지 설명해주시겠어요?](./javascript-questions/1-event-delegation.md)                                                    | 2024-1-1 (월) 작성완료 ✅ |
-| 2    | [프로토타입 상속은 어떻게 작동하나요?](./javascript-questions/2-prototype-inherit.md)                                                                                           | 2024-1-1 (월) 작성완료 ✅ |
-| 3    | [null, undefined, undeclared 변수의 차이는 무엇이며, 각 상태를 확인하는 방법은 무엇인가요?](./javascript-questions/3-variable-diffrence.md)                                     | 2024-1-1 (월) 작성완료 ✅ |
-| 4    | [클로저는 정확히 무엇이며, 왜 및 어떻게 사용되나요?](./javascript-questions/4-closure.md)                                                                                       | 2024-1-2 (화) 작성완료 ✅ |
-| 5    | [오브젝트 프로퍼티와 배열 항목을 반복할 때 어떤 언어 구성을 사용하나요?](./javascript-questions/5-loop.md)                                                                      | 2024-1-2 (화) 작성완료 ✅ |
-| 6    | [Array.forEach() 루프와 Array.map() 메서드의 주요 차이는 무엇이며, 언제 어떤 것을 선택해야 하나요?](./javascript-questions/6-forEach-map-diffrence.md)                          | 2024-1-2 (화) 작성완료 ✅ |
-| 7    | [익명 함수의 사용 사례는 무엇인가요?](./javascript-questions/7-anonymous-function.md)                                                                                           | 2024-1-3 (수) 작성완료 ✅ |
-| 8    | [호스트 객체와 네이티브 객체의 차이는 무엇인가요?](./javascript-questions/8-host-object-navite-object.md)                                                                       | 2024-1-3 (수) 작성완료 ✅ |
-| 9    | [var person = Person(), var person = new Person()의 차이는 무엇인가요?](./javascript-questions/9-function-diffrence.md)                                                         | 2024-1-3 (수) 작성완료 ✅ |
-| 10   | [function foo() {}와 var foo = function() {}의 foo 사용 차이는 무엇인가요?](./javascript-questions/10-function-diffrence2.md)                                                   | 2024-1-4 (목) 작성완료 ✅ |
-| 11   | [Function.call과 Function.apply의 차이는 무엇이며, 두 메서드 간의 주요 차이는 무엇인가요?](./javascript-questions/11-call-apply-diffrence.md)                                   | 2024-1-4 (목) 작성완료 ✅ |
-| 12   | [Function.prototype.bind에 대해 설명해주실 있을까요?](./javascript-questions/12-bind.md)                                                                                        | 2024-1-4 (목) 작성완료 ✅ |
-| 13   | [호이스팅이 정확히 무엇인가요?](./javascript-questions/13-hoisting.md)                                                                                                          | 2024-1-5 (금) 작성완료 ✅ |
-| 14   | [타입 강제 변환은 어떤 것이며, JavaScript 코드에서 타입 강제 변환타입 강제 변환 시 주의해야 할 일반적인 함정은 무엇인가요?](./javascript-questions/14-type-implicit-conversion) | 2024-1-5 (금) 작성완료 ✅ |
-| 15   | [이벤트 버블링에 대해 설명해주실 수 있을까요? ](./javascript-questions/15-event-bubbling.md)                                                                                    | 2024-1-5 (금) 작성완료 ✅ |
-| 16   | [이벤트 캡처링에 대해 설명해주실 수 있을까요?](./javascript-questions/16-event-caputring.md)                                                                                    | 2024-1-6 (토) 작성완료 ✅ |
-| 17   | ["속성"과 "프로퍼티"의 차이는 무엇인가요? ](./javascript-questions/17-attribute-property-diffrence.md)                                                                          | 2024-1-6 (토) 작성완료 ✅ |
-| 18   | [==와 ===의 차이는 무엇인가요?]('./javascript-questions/18-comparison-operator.md)                                                                                              | 2024-1-7 (일) 작성완료 ✅ |
-| 19   | [JavaScript에서 동일 출처 정책에 대해 설명해주실 수 있을까요?](./javascript-question/19-same-origin-policy.md)                                                                  | 2024-1-7 (일) 작성완료 ✅ |
-| 20   | [삼항 연산자를 '삼항'이라고 부르는 이유는 무엇인가요?](./javascript-question/20-ternary-operator.md)                                                                            | 2024-1-8 (월) 작성완료 ✅ |
-| 21   | [엄격 모드의 정의 및 사용의 장단점은 무엇인가요?](./javascript-question/21-strict-mode.md)                                                                                      | 2024-1-8 (월) 작성완료 ✅ |
-| 22   | [JavaScript 코드를 JavaScript로 컴파일하는 언어에서 쓰는 장단점은 무엇인가요? ](./javascript-question/22-compile-javascript.md)                                                 | 2024-1-8 (월) 작성완료 ✅ |
-| 23   | JavaScript 코드를 디버깅하는 데 사용하는 도구 및 기술은 무엇인가요?                                                                                                             | 아직 시작하지 않았음      |
-| 24   | 가변 및 불변 객체의 차이는 무엇인가요?                                                                                                                                          | 아직 시작하지 않았음      |
-| 25   | JavaScript에서 불변 객체의 예시는 무엇인가요?                                                                                                                                   | 아직 시작하지 않았음      |
-| 26   | 불변성의 장단점은 무엇인가요?                                                                                                                                                   | 아직 시작하지 않았음      |
-| 27   | 코드에서 불변성을 어떻게 달성할 수 있나요?                                                                                                                                      | 아직 시작하지 않았음      |
-| 28   | 동기 및 비동기 함수의 차이는 무엇인가요?                                                                                                                                        | 아직 시작하지 않았음      |
-| 29   | 이벤트 루프에 대해 설명해주실 수 있을까요?                                                                                                                                      | 아직 시작하지 않았음      |
-| 30   | 호출 스택과 태스크 큐의 차이는 무엇인가요?                                                                                                                                      | 아직 시작하지 않았음      |
-| 31   | let, var, const로 생성된 변수의 차이는 무엇인가요?                                                                                                                              | 아직 시작하지 않았음      |
-| 32   | ES6 클래스와 ES5 함수 생성자의 차이는 무엇인가요?                                                                                                                               | 아직 시작하지 않았음      |
-| 33   | Arrow function 문법의 사용 사례 및 다른 함수와의 차이는 무엇인가요?                                                                                                             | 아직 시작하지 않았음      |
-| 34   | 생성자 내의 메소드에 Arrow syntax를 사용하는 이점은 무엇인가요?                                                                                                                 | 아직 시작하지 않았음      |
-| 35   | 고차 함수(higher-order function)의 정의는 무엇인가요?                                                                                                                           | 아직 시작하지 않았음      |
-| 36   | 객체 또는 배열의 비구조화 예시는 무엇인가요?                                                                                                                                    | 아직 시작하지 않았음      |
-| 37   | ES6 템플릿 리터럴로 문자열 생성의 예시는 무엇인가요?                                                                                                                            | 아직 시작하지 않았음      |
-| 38   | 커링 함수의 예시 및 이 구문이 제공하는 이점은 무엇인가요?                                                                                                                       | 아직 시작하지 않았음      |
-| 39   | 스프레드 구문의 이점과 나머지 구문과의 차이는 무엇인가요?                                                                                                                       | 아직 시작하지 않았음      |
-| 40   | 파일 간에 코드를 공유하는 방법은 무엇인가요?                                                                                                                                    | 아직 시작하지 않았음      |
-| 41   | 정적 클래스 멤버를 만드는 이유는 무엇인가요?                                                                                                                                    | 아직 시작하지 않았음      |
-| 42   | while과 do-while 루프의 차이는 무엇인가요?                                                                                                                                      | 아직 시작하지 않았음      |
-| 43   | 프로미스의 정의 및 사용 예시는 무엇인가요?                                                                                                                                      | 아직 시작하지 않았음      |
+| 번호 | 질문                                                                                                                                                                            | 상태                       |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
+| 1    | [이벤트 위임이란 무엇이며, JavaScript에서 어떻게 작동하는지 설명해주시겠어요?](./javascript-questions/1-event-delegation.md)                                                    | 2024-1-1 (월) 작성완료 ✅  |
+| 2    | [프로토타입 상속은 어떻게 작동하나요?](./javascript-questions/2-prototype-inherit.md)                                                                                           | 2024-1-1 (월) 작성완료 ✅  |
+| 3    | [null, undefined, undeclared 변수의 차이는 무엇이며, 각 상태를 확인하는 방법은 무엇인가요?](./javascript-questions/3-variable-diffrence.md)                                     | 2024-1-1 (월) 작성완료 ✅  |
+| 4    | [클로저는 정확히 무엇이며, 왜 및 어떻게 사용되나요?](./javascript-questions/4-closure.md)                                                                                       | 2024-1-2 (화) 작성완료 ✅  |
+| 5    | [오브젝트 프로퍼티와 배열 항목을 반복할 때 어떤 언어 구성을 사용하나요?](./javascript-questions/5-loop.md)                                                                      | 2024-1-2 (화) 작성완료 ✅  |
+| 6    | [Array.forEach() 루프와 Array.map() 메서드의 주요 차이는 무엇이며, 언제 어떤 것을 선택해야 하나요?](./javascript-questions/6-forEach-map-diffrence.md)                          | 2024-1-2 (화) 작성완료 ✅  |
+| 7    | [익명 함수의 사용 사례는 무엇인가요?](./javascript-questions/7-anonymous-function.md)                                                                                           | 2024-1-3 (수) 작성완료 ✅  |
+| 8    | [호스트 객체와 네이티브 객체의 차이는 무엇인가요?](./javascript-questions/8-host-object-navite-object.md)                                                                       | 2024-1-3 (수) 작성완료 ✅  |
+| 9    | [var person = Person(), var person = new Person()의 차이는 무엇인가요?](./javascript-questions/9-function-diffrence.md)                                                         | 2024-1-3 (수) 작성완료 ✅  |
+| 10   | [function foo() {}와 var foo = function() {}의 foo 사용 차이는 무엇인가요?](./javascript-questions/10-function-diffrence2.md)                                                   | 2024-1-4 (목) 작성완료 ✅  |
+| 11   | [Function.call과 Function.apply의 차이는 무엇이며, 두 메서드 간의 주요 차이는 무엇인가요?](./javascript-questions/11-call-apply-diffrence.md)                                   | 2024-1-4 (목) 작성완료 ✅  |
+| 12   | [Function.prototype.bind에 대해 설명해주실 있을까요?](./javascript-questions/12-bind.md)                                                                                        | 2024-1-4 (목) 작성완료 ✅  |
+| 13   | [호이스팅이 정확히 무엇인가요?](./javascript-questions/13-hoisting.md)                                                                                                          | 2024-1-5 (금) 작성완료 ✅  |
+| 14   | [타입 강제 변환은 어떤 것이며, JavaScript 코드에서 타입 강제 변환타입 강제 변환 시 주의해야 할 일반적인 함정은 무엇인가요?](./javascript-questions/14-type-implicit-conversion) | 2024-1-5 (금) 작성완료 ✅  |
+| 15   | [이벤트 버블링에 대해 설명해주실 수 있을까요? ](./javascript-questions/15-event-bubbling.md)                                                                                    | 2024-1-5 (금) 작성완료 ✅  |
+| 16   | [이벤트 캡처링에 대해 설명해주실 수 있을까요?](./javascript-questions/16-event-caputring.md)                                                                                    | 2024-1-6 (토) 작성완료 ✅  |
+| 17   | ["속성"과 "프로퍼티"의 차이는 무엇인가요? ](./javascript-questions/17-attribute-property-diffrence.md)                                                                          | 2024-1-6 (토) 작성완료 ✅  |
+| 18   | [==와 ===의 차이는 무엇인가요?]('./javascript-questions/18-comparison-operator.md)                                                                                              | 2024-1-7 (일) 작성완료 ✅  |
+| 19   | [JavaScript에서 동일 출처 정책에 대해 설명해주실 수 있을까요?](./javascript-questions/19-same-origin-policy.md)                                                                 | 2024-1-7 (일) 작성완료 ✅  |
+| 20   | [삼항 연산자를 '삼항'이라고 부르는 이유는 무엇인가요?](./javascript-questions/20-ternary-operator.md)                                                                           | 2024-1-8 (월) 작성완료 ✅  |
+| 21   | [엄격 모드의 정의 및 사용의 장단점은 무엇인가요?](./javascript-questions/21-strict-mode.md)                                                                                     | 2024-1-8 (월) 작성완료 ✅  |
+| 22   | [JavaScript 코드를 JavaScript로 컴파일하는 언어에서 쓰는 장단점은 무엇인가요? ](./javascript-questions/22-compile-javascript.md)                                                | 2024-1-8 (월) 작성완료 ✅  |
+| 23   | [JavaScript 코드를 디버깅하는 데 사용하는 도구 및 기술은 무엇인가요?](./javascript-questions/23-debugging-tool.md)                                                              | 2024-1-10 (수) 작성완료 ✅ |
+| 24   | [가변 및 불변 객체의 차이는 무엇인가요?]()                                                                                                                                      | 2024-1-10 (수) 작성완료 ✅ |
+| 25   | [JavaScript에서 불변 객체의 예시는 무엇인가요? ]()                                                                                                                              | 2024-1-10 (수) 작성완료 ✅ |
+| 26   | 불변성의 장단점은 무엇인가요?                                                                                                                                                   | 아직 시작하지 않았음       |
+| 27   | 코드에서 불변성을 어떻게 달성할 수 있나요?                                                                                                                                      | 아직 시작하지 않았음       |
+| 28   | 동기 및 비동기 함수의 차이는 무엇인가요?                                                                                                                                        | 아직 시작하지 않았음       |
+| 29   | 이벤트 루프에 대해 설명해주실 수 있을까요?                                                                                                                                      | 아직 시작하지 않았음       |
+| 30   | 호출 스택과 태스크 큐의 차이는 무엇인가요?                                                                                                                                      | 아직 시작하지 않았음       |
+| 31   | let, var, const로 생성된 변수의 차이는 무엇인가요?                                                                                                                              | 아직 시작하지 않았음       |
+| 32   | ES6 클래스와 ES5 함수 생성자의 차이는 무엇인가요?                                                                                                                               | 아직 시작하지 않았음       |
+| 33   | Arrow function 문법의 사용 사례 및 다른 함수와의 차이는 무엇인가요?                                                                                                             | 아직 시작하지 않았음       |
+| 34   | 생성자 내의 메소드에 Arrow syntax를 사용하는 이점은 무엇인가요?                                                                                                                 | 아직 시작하지 않았음       |
+| 35   | 고차 함수(higher-order function)의 정의는 무엇인가요?                                                                                                                           | 아직 시작하지 않았음       |
+| 36   | 객체 또는 배열의 비구조화 예시는 무엇인가요?                                                                                                                                    | 아직 시작하지 않았음       |
+| 37   | ES6 템플릿 리터럴로 문자열 생성의 예시는 무엇인가요?                                                                                                                            | 아직 시작하지 않았음       |
+| 38   | 커링 함수의 예시 및 이 구문이 제공하는 이점은 무엇인가요?                                                                                                                       | 아직 시작하지 않았음       |
+| 39   | 스프레드 구문의 이점과 나머지 구문과의 차이는 무엇인가요?                                                                                                                       | 아직 시작하지 않았음       |
+| 40   | 파일 간에 코드를 공유하는 방법은 무엇인가요?                                                                                                                                    | 아직 시작하지 않았음       |
+| 41   | 정적 클래스 멤버를 만드는 이유는 무엇인가요?                                                                                                                                    | 아직 시작하지 않았음       |
+| 42   | while과 do-while 루프의 차이는 무엇인가요?                                                                                                                                      | 아직 시작하지 않았음       |
+| 43   | 프로미스의 정의 및 사용 예시는 무엇인가요?                                                                                                                                      | 아직 시작하지 않았음       |
 
 <br />
 <br />
