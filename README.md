@@ -90,8 +90,8 @@
 | 21   | [엄격 모드의 정의 및 사용의 장단점은 무엇인가요?](./javascript-questions/21-strict-mode.md)                                                                                     | 2024-1-8 (월) 작성완료 ✅  |
 | 22   | [JavaScript 코드를 JavaScript로 컴파일하는 언어에서 쓰는 장단점은 무엇인가요? ](./javascript-questions/22-compile-javascript.md)                                                | 2024-1-8 (월) 작성완료 ✅  |
 | 23   | [JavaScript 코드를 디버깅하는 데 사용하는 도구 및 기술은 무엇인가요?](./javascript-questions/23-debugging-tool.md)                                                              | 2024-1-10 (수) 작성완료 ✅ |
-| 24   | [가변 및 불변 객체의 차이는 무엇인가요?]()                                                                                                                                      | 2024-1-10 (수) 작성완료 ✅ |
-| 25   | [JavaScript에서 불변 객체의 예시는 무엇인가요? ]()                                                                                                                              | 2024-1-10 (수) 작성완료 ✅ |
+| 24   | [가변 및 불변 객체의 차이는 무엇인가요?](./javascript-questions/24-mutable-immutable-object.md)                                                                                 | 2024-1-10 (수) 작성완료 ✅ |
+| 25   | [JavaScript에서 불변 객체의 예시는 무엇인가요? ](./javascript-questions/25-immutalbe-object.md)                                                                                 | 2024-1-10 (수) 작성완료 ✅ |
 | 26   | 불변성의 장단점은 무엇인가요?                                                                                                                                                   | 아직 시작하지 않았음       |
 | 27   | 코드에서 불변성을 어떻게 달성할 수 있나요?                                                                                                                                      | 아직 시작하지 않았음       |
 | 28   | 동기 및 비동기 함수의 차이는 무엇인가요?                                                                                                                                        | 아직 시작하지 않았음       |
