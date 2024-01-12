@@ -22,20 +22,21 @@
 
 ### 1. HTML Questions
 
-| 번호 | 질문                                                                                                                                                                                                          | 상태                        |
-| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
-| 1    | [`doctype`은 어떤 기능을 하나요?](/HTML-questions/1-what-does-a-doctype-do.md)                                                                                                                                | 2023-12-13 (수) 작성완료 ✅ |
-| 2    | [여러 언어로 된 콘텐츠가 포함된 페이지는 어떻게 제공하는가?](/HTML-questions/2-multiple-languages.md)                                                                                                         | 2023-12-13 (수) 작성완료 ✅ |
-| 3    | [다국어 사이트를 설계하거나 개발할 때 주의해야 할 사항은 무엇인가요?](/HTML-questions/3-multilingual-sites.md)                                                                                                | 2023-12-14 (목) 작성완료 ✅ |
-| 4    | ['data-' 속성은 어떤 용도로 좋은가요?](/HTML-questions/4-data-attributes.md)                                                                                                                                  | 2023-12-14 (목) 작성완료 ✅ |
-| 5    | [HTML5를 오픈 웹 플랫폼으로 볼 때, HTML5의 구성 요소는 무엇인가요?](/HTML-questions/5-building-blocks-of-html5.md)                                                                                            | 2023-12-14 (목) 작성완료 ✅ |
-| 6    | [쿠키, sessionStorage, localStorage의 차이점은 무엇인가요?](/HTML-questions/6-difference-between-cookie-sessionstorage-localstorage.md)                                                                       | 2023-12-15 (금) 작성완료 ✅ |
-| 7    | [`<script>`, `<script async>`, `<script defer>`의 차이점은 무엇인가요?](/HTML-questions/7-difference-between-script-async-defer.md)                                                                           | 2023-12-15 (금) 작성완료 ✅ |
-| 8    | [CSS `<link>`는 `<head></head>` 사이에, JS `<script>`는 `</body>` 직전에 위치시키는 것이 일반적으로 좋은 아이디어인 이유는 무엇인가요? 예외 상황은 알고 있나요?](/HTML-questions/8-position-of-css-and-js.md) | 2023-12-16 (토) 작성완료 ✅ |
-| 9    | [프로그레시브 렌더링(Progressive Rendering)이란 무엇인가요?](/HTML-questions/9-what-is-progressive-rendering.md)                                                                                              | 2023-12-16 (토) 작성완료 ✅ |
-| 10   | [이미지 태그에서 'srcset' 속성을 사용하는 이유는 무엇인가요? 이 속성의 내용을 평가하는 브라우저의 프로세스를 설명해주세요.](/HTML-questions/10-srcset-attribute-in-an-image-tag.md)                           | 2023-12-16 (토) 작성완료 ✅ |
-| 11   | [캔버스(canvas)와 SVG의 차이점은 무엇인가요?](/HTML-questions/12-difference-between-canvas-and-svg.md)                                                                                                        | 2023-12-16 (토) 작성완료 ✅ |
-| 12   | [HTML에서 빈 요소(empty elements)란 무엇인가요?](/HTML-questions/13-what-are-empty-elements-in-html.md)                                                                                                       | 2023-12-16 (토) 작성완료 ✅ |
+| 번호                        | 질문                                                                                                                                                                                                          | 상태                        |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
+| 1                           | [`doctype`은 어떤 기능을 하나요?](/HTML-questions/1-what-does-a-doctype-do.md)                                                                                                                                | 2023-12-13 (수) 작성완료 ✅ |
+| 2                           | [여러 언어로 된 콘텐츠가 포함된 페이지는 어떻게 제공하는가?](/HTML-questions/2-multiple-languages.md)                                                                                                         | 2023-12-13 (수) 작성완료 ✅ |
+| 3                           | [다국어 사이트를 설계하거나 개발할 때 주의해야 할 사항은 무엇인가요?](/HTML-questions/3-multilingual-sites.md)                                                                                                | 2023-12-14 (목) 작성완료 ✅ |
+| 4                           | ['data-' 속성은 어떤 용도로 좋은가요?](/HTML-questions/4-data-attributes.md)                                                                                                                                  | 2023-12-14 (목) 작성완료 ✅ |
+| 5                           | [HTML5를 오픈 웹 플랫폼으로 볼 때, HTML5의 구성 요소는 무엇인가요?](/HTML-questions/5-building-blocks-of-html5.md)                                                                                            | 2023-12-14 (목) 작성완료 ✅ |
+| 6                           | [쿠키, sessionStorage, localStorage의 차이점은 무엇인가요?](/HTML-questions/6-difference-between-cookie-sessionstorage-localstorage.md)                                                                       | 2023-12-15 (금) 작성완료 ✅ |
+| 7                           | [`<script>`, `<script async>`, `<script defer>`의 차이점은 무엇인가요?](/HTML-questions/7-difference-between-script-async-defer.md)                                                                           | 2023-12-15 (금) 작성완료 ✅ |
+| 8                           | [CSS `<link>`는 `<head></head>` 사이에, JS `<script>`는 `</body>` 직전에 위치시키는 것이 일반적으로 좋은 아이디어인 이유는 무엇인가요? 예외 상황은 알고 있나요?](/HTML-questions/8-position-of-css-and-js.md) | 2023-12-16 (토) 작성완료 ✅ |
+| 9                           | [프로그레시브 렌더링(Progressive Rendering)이란 무엇인가요?](/HTML-questions/9-what-is-progressive-rendering.md)                                                                                              | 2023-12-16 (토) 작성완료 ✅ |
+| 10                          | [이미지 태그에서 'srcset' 속성을 사용하는 이유는 무엇인가요? 이 속성의 내용을 평가하는 브라우저의 프로세스를 설명해주세요.](/HTML-questions/10-srcset-attribute-in-an-image-tag.md)                           | 2023-12-16 (토) 작성완료 ✅ |
+| 11                          | [캔버스(canvas)와 SVG의 차이점은 무엇인가요?](/HTML-questions/12-difference-between-canvas-and-svg.md)                                                                                                        | 2023-12-16 (토) 작성완료 ✅ |
+| 12                          | [HTML에서 빈 요소(empty elements)란 무엇인가요?](/HTML-questions/13-what-are-empty-elements-in-html.md)                                                                                                       |
+| 2023-12-16 (토) 작성완료 ✅ |
 
 <br />
 <br />
@@ -92,9 +93,9 @@
 | 23   | [JavaScript 코드를 디버깅하는 데 사용하는 도구 및 기술은 무엇인가요?](./javascript-questions/23-debugging-tool.md)                                                              | 2024-1-10 (수) 작성완료 ✅ |
 | 24   | [가변 및 불변 객체의 차이는 무엇인가요?](./javascript-questions/24-mutable-immutable-object.md)                                                                                 | 2024-1-10 (수) 작성완료 ✅ |
 | 25   | [JavaScript에서 불변 객체의 예시는 무엇인가요? ](./javascript-questions/25-immutalbe-object.md)                                                                                 | 2024-1-10 (수) 작성완료 ✅ |
-| 26   | 불변성의 장단점은 무엇인가요?                                                                                                                                                   | 아직 시작하지 않았음       |
-| 27   | 코드에서 불변성을 어떻게 달성할 수 있나요?                                                                                                                                      | 아직 시작하지 않았음       |
-| 28   | 동기 및 비동기 함수의 차이는 무엇인가요?                                                                                                                                        | 아직 시작하지 않았음       |
+| 26   | [불변성의 장단점은 무엇인가요?](./javascript-questions/26-immutalbility-advantageOrdisadvantage.md)                                                                             | 2024-1-12 (금) 작성완료 ✅ |
+| 27   | [코드에서 불변성을 어떻게 달성할 수 있나요? ](./javascript-questions/27-code-immutalbility.md)                                                                                  | 2024-1-12 (금) 작성완료 ✅ |
+| 28   | [동기 및 비동기 함수의 차이는 무엇인가요?](./javascript-questions/28-synchronous-asynchronouse-function-diffrence.md)                                                           | 2024-1-12 (금) 작성완료 ✅ |
 | 29   | 이벤트 루프에 대해 설명해주실 수 있을까요?                                                                                                                                      | 아직 시작하지 않았음       |
 | 30   | 호출 스택과 태스크 큐의 차이는 무엇인가요?                                                                                                                                      | 아직 시작하지 않았음       |
 | 31   | let, var, const로 생성된 변수의 차이는 무엇인가요?                                                                                                                              | 아직 시작하지 않았음       |
