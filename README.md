@@ -97,7 +97,7 @@
 | 27   | [코드에서 불변성을 어떻게 달성할 수 있나요? ](./javascript-questions/27-code-immutalbility.md)                                                                                  | 2024-1-12 (금) 작성완료 ✅ |
 | 28   | [동기 및 비동기 함수의 차이는 무엇인가요?](./javascript-questions/28-synchronous-asynchronouse-function-diffrence.md)                                                           | 2024-1-12 (금) 작성완료 ✅ |
 | 29   | [이벤트 루프에 대해 설명해주실 수 있을까요?](./javascript-questions/29-event-loop.md)                                                                                           | 2024-1-13 (토) 작성완료 ✅ |
-| 30   | [호출 스택과 태스크 큐의 차이는 무엇인가요? ](./javascript-questions/30-task-quque.md)                                                                                          | 2024-1-13 (토) 작성완료 ✅ |
+| 30   | [콜 스택과 태스크 큐의 차이는 무엇인가요? ](./javascript-questions/30-task-quque.md)                                                                                            | 2024-1-13 (토) 작성완료 ✅ |
 | 31   | [let, var, const로 생성된 변수의 차이는 무엇인가요? ](./javascript-questions/31-var-let-const.md)                                                                               | 2024-1-13 (토) 작성완료 ✅ |
 | 32   | ES6 클래스와 ES5 함수 생성자의 차이는 무엇인가요?                                                                                                                               | 아직 시작하지 않았음       |
 | 33   | Arrow function 문법의 사용 사례 및 다른 함수와의 차이는 무엇인가요?                                                                                                             | 아직 시작하지 않았음       |
