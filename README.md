@@ -101,7 +101,7 @@
 | 31   | [let, var, const로 생성된 변수의 차이는 무엇인가요? ](./javascript-questions/31-var-let-const.md)                                                                               | 2024-1-13 (토) 작성완료 ✅ |
 | 32   | [ES6 클래스와 ES5 함수 생성자의 차이는 무엇인가요?](./javascript-questions/32-class-new-function-diff.md)                                                                       | 2024-1-14 (일) 작성완료 ✅ |
 | 33   | [Arrow function 문법의 사용 사례 및 다른 함수와의 차이는 무엇인가요?](./javascript-questions/33-arrow-function.md)                                                              | 2024-1-15 (월) 작성완료 ✅ |
-| 34   | 생성자 내의 메소드에 Arrow syntax를 사용하는 이점은 무엇인가요?                                                                                                                 | 아직 시작하지 않았음       |
+| 34   | [생성자 내의 메소드에 Arrow syntax를 사용하는 이점은 무엇인가요?](./javascript-questions/34-constructor-function-in-arrow-function.md)                                          | 2024-1-16 (화) 작성완료 ✅ |
 | 35   | 고차 함수(higher-order function)의 정의는 무엇인가요?                                                                                                                           | 아직 시작하지 않았음       |
 | 36   | 객체 또는 배열의 비구조화 예시는 무엇인가요?                                                                                                                                    | 아직 시작하지 않았음       |
 | 37   | ES6 템플릿 리터럴로 문자열 생성의 예시는 무엇인가요?                                                                                                                            | 아직 시작하지 않았음       |
