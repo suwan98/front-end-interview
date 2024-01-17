@@ -51,8 +51,8 @@
 - [API란?](./web-questions/api.md)
 - [REST API](./web-questions/rest-api.md)
 - [Restful API](./web-questions/rest-ful-api.md)
-- [주소창에 google.com을 입력하면 일어나는 일](./web-questions/google-search.md) 🚀TODO
-- [OAuth](./web-questions/OAuth.md) 🚀TODO
+- [주소창에 google.com을 입력하면 일어나는 일](./web-questions/google-search.md)
+- [OAuth](./web-questions/OAuth.md)
 - [쿠키, sessionStorage, localStorage의 차이점](/HTML-questions/6-difference-between-cookie-sessionstorage-localstorage.md)
 - [SPA, CSR, SSR, SSG의 차이점](./web-questions/spa.md) 🚀TODO
 - [SEO란 무엇인가?](./web-questions/SEO.md) 🚀TODO
