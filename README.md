@@ -54,10 +54,7 @@
 - [주소창에 google.com을 입력하면 일어나는 일](./web-questions/google-search.md)
 - [OAuth](./web-questions/OAuth.md)
 - [쿠키, sessionStorage, localStorage의 차이점](/HTML-questions/6-difference-between-cookie-sessionstorage-localstorage.md)
-- [SPA, CSR, SSR, SSG의 차이점](./web-questions/spa.md) 🚀TODO
-- [SEO란 무엇인가?](./web-questions/SEO.md) 🚀TODO
-- [SEO 최적화를 구성하는 방법](./web-questions/SEO-optimization.md) 🚀TODO
-- [클라이언트 사이드 렌더링 시 검색엔진 최적화 이슈가 발생하는 이유](./web-questions/csr-seo-issue.md) 🚀TODO
+- [CSR과SSR의 차이점](./web-questions/spa.md)
 - [AWS EC2 서버 배포 이유](./web-questions/aws-deploy-ec2.md) 🚀TODO
 - [AWS에서 웹 빌드 파일을 배포하는 과정](./web-questions/aws-deploy.md) 🚀TODO
 - [Nginx](./web-questions/nginx.md) 🚀TODO
@@ -70,6 +67,9 @@
 - [CI/CD란?](./web-questions/ci-cd.md) 🚀TODO
 - [모듈 번들러와 트랜스 파일러](./web-questions/bundler-tarnspiler.md) 🚀TODO
 - [Git-flow에 대한 설명](./web-questions/git-flow.md) 🚀TODO
+- [SEO란 무엇인가?](./web-questions/SEO.md) 🚀TODO
+- [SEO 최적화를 구성하는 방법](./web-questions/SEO-optimization.md) 🚀TODO
+- [클라이언트 사이드 렌더링 시 검색엔진 최적화 이슈가 발생하는 이유](./web-questions/csr-seo-issue.md) 🚀TODO
 
 <br />
 
