@@ -55,10 +55,9 @@
 - [OAuth](./web-questions/OAuth.md)
 - [쿠키, sessionStorage, localStorage의 차이점](/HTML-questions/6-difference-between-cookie-sessionstorage-localstorage.md)
 - [CSR과SSR의 차이점](./web-questions/spa.md)
-- [AWS EC2 서버 배포 이유](./web-questions/aws-deploy-ec2.md) 🚀TODO
-- [AWS에서 웹 빌드 파일을 배포하는 과정](./web-questions/aws-deploy.md) 🚀TODO
-- [Nginx](./web-questions/nginx.md) 🚀TODO
-- [ssl이란?](./web-questions/ssl.md) 🚀TODO
+
+- [Nginx](./web-questions/nginx.md)
+- [SSL이란?](./web-questions/ssl.md)
 
 <br />
 
@@ -293,7 +292,9 @@
 - [소셜 미디어 공유 기능 구현은 어떤 방식으로 구현하셨나요?](./project/social-media.md)
 - [Zustand가 제공하는 미들웨어들은 뭐가 있을까요?](./project/zustand-middle-ware.md)
 - [Firebase의 특징에 대해서 설명해주세요](./project/fire-base.md)
-- [pm2에 대해서 설명해주세요](./project/pm2.md)
+- [AWS EC2로 서버를 배포하셨는데 그 이유는 뭔가요?](./project/ec2-server.md) 🚀TODO
+- [AWS에서 웹 빌드 파일을 배포하는 과정을 설명해주세요](./project/aws-deploy.md) 🚀TODO
+- [PM2에 대해서 설명해주세요](./project/pm2.md)
 - [AWS EC2 인스턴스에 대해서 설명해주세요](./project/ec2.md)
 - [AWS S3 버킷에 대해서 설명해주세요](./project/aws-s3-bucket.md)
 - [certbot은 어떤 역할을 하나요?](./project/certbot.md)
