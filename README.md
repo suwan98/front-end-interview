@@ -16,7 +16,7 @@
 
 ## 📚 카테고리
 
-**카테고리는 총 7개로 구성되었으며, 질문에 대한 답을 마크다운 문서로 작성합니다.**
+**카테고리는 총 8개로 구성되었으며, 질문에 대한 답을 마크다운 문서로 작성합니다.**
 
 - [👀 Computer Science 관련 예상 면접질문](#-computer-science-관련-예상-면접질문)
 
@@ -31,6 +31,8 @@
 - [🐯 HTML 관련 예상 면접질문](#-html-관련-예상-면접질문)
 
 - [📸 CSS 관련 예상 면접질문](#-css-관련-예상-면접질문)
+
+- [🪄 프로젝트 관련 예상 면접질문](#-프로젝트-관련-예상-면접질문)
 
 <br />
 <br />
@@ -49,6 +51,7 @@
 - [REST API](./web-questions/rest-api.md) 🚀TODO
 - [Restful API](./web-questions/rest-ful-api.md) 🚀TODO
 - [주소창에 google.com을 입력하면 일어나는 일](./web-questions/google-search.md) 🚀TODO
+- [OAuth](./web-questions/OAuth.md) 🚀TODO
 - [쿠키, sessionStorage, localStorage의 차이점](/HTML-questions/6-difference-between-cookie-sessionstorage-localstorage.md)
 - [SPA, CSR, SSR, SSG의 차이점](./web-questions/spa.md) 🚀TODO
 - [SEO란 무엇인가?](./web-questions/SEO.md) 🚀TODO
@@ -269,3 +272,30 @@
 
 <br />
 <br />
+
+## 🪄 프로젝트 관련 예상 면접질문
+
+- [React-Router에 대한 설명과 동작방식에 대해서 설명해주세요](./project/react-router.md)
+- [nextjs의 useTheme을 통해 다크모드를 구현하셨다고하는데, 어떤방식으로 구현하셨나요?](./project/nextjs-useTheme.md)
+- [Google Analytics에 대해서 설명해주세요](./project/google-analyics.md)
+- [Intersection Observer에 대해서 설명해주세요](./project/intersection-observer.md)
+- [프로젝트 시 반응형 레이아웃은 어떤 방식으로 구현하셨나요?](./project/responsive-ui.md)
+- [Tanstack-Query란 무엇이며 이를 사용하는 이유는 무엇일까요?](./project/tanstack-query.md)
+- [SEO 최적화는 어떤 방식으로 하셨었나요?](./project/seo-opti.md)
+- [프로젝트 시 성능최적화를 하셨다고하는데 어떤 최적화들을 진행했었나요?](./project/project-opti.md)
+- [Recoil에 대해서 설명해주세요](./project/recoil.md)
+- [Zustand에 대해서 설명해주세요](./project/zustand.md)
+- [소셜 미디어 공유 기능 구현은 어떤 방식으로 구현하셨나요?](./project/social-media.md)
+- [Zustand가 제공하는 미들웨어들은 뭐가 있을까요?](./project/zustand-middle-ware.md)
+- [Firebase의 특징에 대해서 설명해주세요](./project/fire-base.md)
+- [pm2에 대해서 설명해주세요](./project/pm2.md)
+- [AWS EC2 인스턴스에 대해서 설명해주세요](./project/ec2.md)
+- [AWS S3 버킷에 대해서 설명해주세요](./project/aws-s3-bucket.md)
+- [certbot은 어떤 역할을 하나요?](./project/certbot.md)
+- [Github Actions와 AWS CodeDeploy를 어떤 식으로 조합하셨나요?](./project/git-actions-in-codeDeploy.md)
+- [nextjs의 app-router에 대해서 설명해주세요](./project/app-router.md)
+- [framer-motion에 대해서 설명해주세요](./project/framer-motion.md)
+- [이미지 스와이퍼는 어떤식으로 구성하셨나요?](./project/image-swiper.md)
+- [GithubActions의 파이프라인은 어떤식으로 구성하셨나요?](./project/pipe-line.md)
+- [재사용성이 가능한 컴포넌트 구축을 위해 어떤 고민을 하셨나요?](./project/component.md)
+- [debounce에 대해서 설명해주세요](./project/debounce.md)
