@@ -8,7 +8,7 @@
 **프론트엔드 기술면접 대비를 위한 레퍼지토리입니다.**
 
 - 질문에 대한 참고래퍼런스는 [Front-end Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions?tab=readme-ov-file), [React Interview Questions & Answers](https://github.com/sudheerj/reactjs-interview-questions) 레퍼런스를 기반으로 작성하고 있습니다.
-- 중요도(⭐)는 <U>전적으로 제 주관적</U>으로 분류했습니다.
+- 중요도(⭐)는 <ins>전적으로 제 주관적</ins>으로 분류했습니다.
 - 질문에 대한 답변은 해당 질문에 대해 깊게 공부한 후 **직접작성**하는 것을 원칙으로 하고있습니다.
 
 <br />
