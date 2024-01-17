@@ -197,6 +197,10 @@
 
 ## 👨‍💻 Nextjs 관련 예상 면접질문
 
+### 중요도 ⭐⭐⭐⭐⭐
+
+- [Nextjs의 동작방식에 대해 이해하고 있나요?](./nextjs-questions/how-nextjs-works.md)
+
 <br />
 <br />
 
