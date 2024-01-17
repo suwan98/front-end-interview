@@ -46,9 +46,10 @@
 
 ### 중요도 ⭐⭐⭐⭐⭐
 
-- [브라우저 렌더링 원리](./web-questions/browser-rendering.md) 🚀TODO
-- [AJAX](./web-questions/ajax.md) 🚀TODO
-- [REST API](./web-questions/rest-api.md) 🚀TODO
+- [브라우저 렌더링 원리](./web-questions/browser-rendering.md)
+- [AJAX](./web-questions/ajax.md)
+- [API란?](./web-questions/api.md)
+- [REST API](./web-questions/rest-api.md)
 - [Restful API](./web-questions/rest-ful-api.md) 🚀TODO
 - [주소창에 google.com을 입력하면 일어나는 일](./web-questions/google-search.md) 🚀TODO
 - [OAuth](./web-questions/OAuth.md) 🚀TODO
