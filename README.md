@@ -72,8 +72,8 @@
 
 ### 중요도 ⭐⭐⭐
 
-- [모듈 번들러와 트랜스 파일러](./web-questions/bundler-tarnspiler.md) 🚀TODO
-- [함수형 프로그래밍이란?](./web-questions/functional-programming.md) 🚀TODO
+- [모듈 번들러와 트랜스 파일러](./web-questions/bundler-tarnspiler.md)
+- [함수형 프로그래밍이란?](./web-questions/functional-programming.md)
 
 <br />
 <br />
