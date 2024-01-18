@@ -92,7 +92,7 @@
 - [동기 및 비동기 함수의 차이](./javascript-questions/28-synchronous-asynchronouse-function-diffrence.md)
 - [이벤트 루프](./javascript-questions/29-event-loop.md)
 - [콜 스택과 태스크 큐의 차이점](./javascript-questions/30-task-quque.md)
-- [실행컨텍스트란?](./javascript-questions/execution-context.md) 🚀TODO
+- [실행컨텍스트란?](./javascript-questions/execution-context.md)
 - [this란?](./javascript-questions/this.md) 🚀TODO
 - [typescript를 사용한 이유와 사용했을때 장점](./javascript-questions/why-typescript.md) 🚀TODO
 - [가비지 콜렉터와 동작방식](./javascript-questions/garabage-collector.md) 🚀TODO
