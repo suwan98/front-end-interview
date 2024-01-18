@@ -95,7 +95,7 @@
 - [실행컨텍스트란?](./javascript-questions/execution-context.md)
 - [this란?](./javascript-questions/this.md) 🚀TODO
 - [typescript를 사용한 이유와 사용했을때 장점](./javascript-questions/why-typescript.md) 🚀TODO
-- [가비지 콜렉터와 동작방식](./javascript-questions/garabage-collector.md) 🚀TODO
+- [가비지 콜렉터와 동작방식](./javascript-questions/garabage-collector.md)
 - [Promise의 정의와 사용 예시](./javascript-questions/Promise.md) 🚀TODO
 - [async/awiat란?](./javascript-questions/async-await.md) 🚀TODO
 
@@ -132,7 +132,7 @@
 - [불변성의 장단점](./javascript-questions/26-immutalbility-advantageOrdisadvantage.md)
 - [코드에서 불변성 달성 방법](./javascript-questions/27-code-immutalbility.md)
 - [고차함수란?](./javascript-questions/high-order-function.md) 🚀TODO
-- [require와 import의 차이점](./javascript-questions/require-import.md) 🚀TODO
+- [require과 import의 차이점](./javascript-questions/require-import.md) 🚀TODO
 
 <br />
 
