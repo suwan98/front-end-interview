@@ -63,8 +63,8 @@
 ### 중요도 ⭐⭐⭐⭐
 
 - [CI/CD란?](./web-questions/ci-cd.md)
-- [Git-flow에 대한 설명](./web-questions/git-flow.md) 🚀TODO
-- [SEO란 무엇인가?](./web-questions/SEO.md) 🚀TODO
+- [Git-flow에 대한 설명](./web-questions/git-flow.md)
+- [SEO란 무엇인가?](./web-questions/SEO.md)
 - [SEO 최적화를 구성하는 방법](./web-questions/SEO-optimization.md) 🚀TODO
 - [클라이언트 사이드 렌더링 시 검색엔진 최적화 이슈가 발생하는 이유](./web-questions/csr-seo-issue.md) 🚀TODO
 
