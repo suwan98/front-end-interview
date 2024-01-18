@@ -96,7 +96,7 @@
 - [this란?](./javascript-questions/this.md) 🚀TODO
 - [typescript를 사용한 이유와 사용했을때 장점](./javascript-questions/why-typescript.md)
 - [가비지 콜렉터와 동작방식](./javascript-questions/garabage-collector.md)
-- [Promise의 정의와 사용 예시](./javascript-questions/Promise.md) 🚀TODO
+- [Promise의 정의와 사용 예시](./javascript-questions/Promise.md)
 - [async/awiat란?](./javascript-questions/async-await.md) 🚀TODO
 
 <br />
