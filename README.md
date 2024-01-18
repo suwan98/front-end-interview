@@ -55,7 +55,6 @@
 - [OAuth](./web-questions/OAuth.md)
 - [쿠키, sessionStorage, localStorage의 차이점](/HTML-questions/6-difference-between-cookie-sessionstorage-localstorage.md)
 - [CSR과SSR의 차이점](./web-questions/spa.md)
-
 - [Nginx](./web-questions/nginx.md)
 - [SSL이란?](./web-questions/ssl.md)
 
@@ -63,7 +62,7 @@
 
 ### 중요도 ⭐⭐⭐⭐
 
-- [CI/CD란?](./web-questions/ci-cd.md) 🚀TODO
+- [CI/CD란?](./web-questions/ci-cd.md)
 - [모듈 번들러와 트랜스 파일러](./web-questions/bundler-tarnspiler.md) 🚀TODO
 - [Git-flow에 대한 설명](./web-questions/git-flow.md) 🚀TODO
 - [SEO란 무엇인가?](./web-questions/SEO.md) 🚀TODO
