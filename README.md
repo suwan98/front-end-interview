@@ -63,7 +63,6 @@
 ### 중요도 ⭐⭐⭐⭐
 
 - [CI/CD란?](./web-questions/ci-cd.md)
-- [모듈 번들러와 트랜스 파일러](./web-questions/bundler-tarnspiler.md) 🚀TODO
 - [Git-flow에 대한 설명](./web-questions/git-flow.md) 🚀TODO
 - [SEO란 무엇인가?](./web-questions/SEO.md) 🚀TODO
 - [SEO 최적화를 구성하는 방법](./web-questions/SEO-optimization.md) 🚀TODO
@@ -73,6 +72,7 @@
 
 ### 중요도 ⭐⭐⭐
 
+- [모듈 번들러와 트랜스 파일러](./web-questions/bundler-tarnspiler.md) 🚀TODO
 - [함수형 프로그래밍이란?](./web-questions/functional-programming.md) 🚀TODO
 
 <br />
