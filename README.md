@@ -112,8 +112,8 @@
 - [Function.call과 Function.apply의 차이점](./javascript-questions/11-call-apply-diffrence.md)
 - [Function.prototype.bind](./javascript-questions/12-bind.md)
 - [JavaScript 코드를 JavaScript로 컴파일하는 언어에서 쓰는 장단점](./javascript-questions/22-compile-javascript.md)
-- [IIFE](./javascript-questions/IIFE.md) 🚀TODO
-- [Spread Syntax의 이점과 주의해야할 점은?](./javascript-questions/spread-syntax.md) 🚀TODO
+- [IIFE](./javascript-questions/IIFE.md)
+- [Spread Syntax의 이점과 주의해야할 점은?](./javascript-questions/spread-syntax.md)
 - [ES6 문법에 추가된 것들은?](./javascript-questions/es6.md) 🚀TODO
 - [자바스크립트에서 이벤트 바인딩의 정의와 이벤트 바인딩 방법들](./javascript-questions/event-binding.md)🚀TODO
 
