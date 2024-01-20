@@ -104,8 +104,8 @@
 ### 중요도 ⭐⭐⭐⭐
 
 - [자바스크립트는 어떤 언어이고, 어떠한 특징을 가지는가?](./javascript-questions/about-javascript.md)
-- [자바스크립트 엔진이 코드를 실행하는 과정](./javascript-questions/engine.md) 🚀TODO
-- [원시값과 참조값(array, object)의 차이점을 메모리 관점에서 설명하라](./javascript-questions/primitive-type-reference-type.md) 🚀TODO
+- [자바스크립트 엔진이 코드를 실행하는 과정](./javascript-questions/engine.md)
+- [원시값과 참조값의 차이점을 메모리 관점에서 설명하라](./javascript-questions/primitive-type-reference-type.md)
 - [null, undefined, undeclared 변수의 차이점과 각 상태를 확인하는 방법](./javascript-questions/3-variable-diffrence.md)
 - [let, var, const로 생성된 변수의 차이점](./javascript-questions/31-var-let-const.md)
 - [Array.forEach() 루프와 Array.map() 메서드의 주요한 차이점 및 선택 시점](./javascript-questions/6-forEach-map-diffrence.md)
