@@ -131,7 +131,7 @@
 - [JavaScript에서 불변 객체의 예시](./javascript-questions/25-immutalbe-object.md)
 - [불변성의 장단점](./javascript-questions/26-immutalbility-advantageOrdisadvantage.md)
 - [코드에서 불변성 달성 방법](./javascript-questions/27-code-immutalbility.md)
-- [고차함수란?](./javascript-questions/high-order-function.md) 🚀TODO
+- [고차함수란?](./javascript-questions/high-order-function.md) 
 - [require과 import의 차이점](./javascript-questions/require-import.md)
 
 <br />
