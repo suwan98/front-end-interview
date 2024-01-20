@@ -131,7 +131,7 @@
 - [JavaScript에서 불변 객체의 예시](./javascript-questions/25-immutalbe-object.md)
 - [불변성의 장단점](./javascript-questions/26-immutalbility-advantageOrdisadvantage.md)
 - [코드에서 불변성 달성 방법](./javascript-questions/27-code-immutalbility.md)
-- [고차함수란?](./javascript-questions/high-order-function.md) 
+- [고차함수란?](./javascript-questions/high-order-function.md)
 - [require과 import의 차이점](./javascript-questions/require-import.md)
 
 <br />
@@ -146,7 +146,7 @@
 - [ES6 클래스와 ES5 함수 생성자의 차이점](./javascript-questions/32-class-new-function-diff.md)
 - [Arrow function 문법의 사용 사례 및 다른 함수와의 차이점](./javascript-questions/33-arrow-function.md)
 - [생성자 내의 메소드에 Arrow syntax를 사용하는 이점](./javascript-questions/34-constructor-function-in-arrow-function.md)
-- [while과 do-while 루프의 차이](./javascript/while-do-while.md) 🚀TODO
+- [while과 do-while 루프의 차이](./javascript/while-do-while.md)
 
 <br />
 <br />
