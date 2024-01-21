@@ -158,7 +158,7 @@
 - [React의 특징은?](./react-questions/react-characteristic.md)
 - [React는 라이브러리인가 프레임워크인가?](./react-questions/react-is-libraray.md)
 - [React에서 가상돔의 정의와 동작방식](./react-questions/virtual-dom.md)
-- [React에서 컴포넌트란?](./react-questions/react-component.md) 🚀TODO
+- [React에서 컴포넌트란?](./react-questions/react-component.md)
 - [클래스형 컴포넌트 VS 함수형 컴포넌트](./react-questions/class-component.md) 🚀TODO
 - [컴포넌트 라이프 사이클](./react-questions/life-cycle.md) 🚀TODO
 - [상태관리와 상태관리가 필요한 이유](./react-questions/state-management.md) 🚀TODO
