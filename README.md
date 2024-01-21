@@ -159,10 +159,10 @@
 - [React는 라이브러리인가 프레임워크인가?](./react-questions/react-is-libraray.md)
 - [React에서 가상돔의 정의와 동작방식](./react-questions/virtual-dom.md)
 - [React에서 컴포넌트란?](./react-questions/react-component.md)
-- [클래스형 컴포넌트 VS 함수형 컴포넌트](./react-questions/class-component.md) 🚀TODO
-- [컴포넌트 라이프 사이클](./react-questions/life-cycle.md) 🚀TODO
-- [상태관리와 상태관리가 필요한 이유](./react-questions/state-management.md) 🚀TODO
-- [React Hooks이란?](./react-questions/react-hooks.md) 🚀TODO
+- [클래스형 컴포넌트 VS 함수형 컴포넌트](./react-questions/class-component.md)
+- [컴포넌트 라이프 사이클](./react-questions/life-cycle.md)
+- [상태관리와 상태관리가 필요한 이유](./react-questions/state-management.md)
+- [React Hook이란?](./react-questions/react-hooks.md)
 - [props와 state의 정의](./react-questions/props-state.md) 🚀TODO
 - [React에서 State의 불변성](./react-questions/state.md) 🚀TODO
 - [React에서의 성능최적화 방법](./react-questions/in-react-optimization.md) 🚀TODO
