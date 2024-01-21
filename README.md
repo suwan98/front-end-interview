@@ -171,7 +171,7 @@
 
 ### 중요도 ⭐⭐⭐⭐
 
-- [useState 훅의 정의](./react-questions/use-state.md) 🚀TODO
+- [useState 훅의 정의](./react-questions/use-state.md)
 - [useEffect 훅의 정의](./react-questions/use-effect.md) 🚀TODO
 - [useRef 훅의 정의](./react-questions/use-ref.md) 🚀TODO
 - [useMemo와 useCallback이란?](./react-questions/use-memo-use-callback.md) 🚀TODO
