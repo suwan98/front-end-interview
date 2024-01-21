@@ -165,7 +165,7 @@
 - [React Hook이란?](./react-questions/react-hooks.md)
 - [props와 state의 정의](./react-questions/props-state.md)
 - [React에서 State의 불변성을 유지해야하는 이유](./react-questions/state.md)
-- [React에서의 성능최적화 방법](./react-questions/in-react-optimization.md) 🚀TODO
+- [React에서의 성능최적화 방법](./react-questions/in-react-optimization.md)
 
 <br />
 
