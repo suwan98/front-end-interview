@@ -172,7 +172,7 @@
 ### 중요도 ⭐⭐⭐⭐
 
 - [useState 훅의 정의](./react-questions/use-state.md)
-- [useEffect 훅의 정의](./react-questions/use-effect.md) 🚀TODO
+- [useEffect 훅의 정의](./react-questions/use-effect.md)
 - [useRef 훅의 정의](./react-questions/use-ref.md) 🚀TODO
 - [useMemo와 useCallback이란?](./react-questions/use-memo-use-callback.md) 🚀TODO
 - [컴포넌트 리스트 구현 시 각 컴포넌트에 대한 id 값을 설정해야하는 이유](./react-questions/map-id.md)🚀TODO
