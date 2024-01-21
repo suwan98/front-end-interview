@@ -163,8 +163,8 @@
 - [컴포넌트 라이프 사이클](./react-questions/life-cycle.md)
 - [상태관리와 상태관리가 필요한 이유](./react-questions/state-management.md)
 - [React Hook이란?](./react-questions/react-hooks.md)
-- [props와 state의 정의](./react-questions/props-state.md) 🚀TODO
-- [React에서 State의 불변성](./react-questions/state.md) 🚀TODO
+- [props와 state의 정의](./react-questions/props-state.md)
+- [React에서 State의 불변성을 유지해야하는 이유](./react-questions/state.md)
 - [React에서의 성능최적화 방법](./react-questions/in-react-optimization.md) 🚀TODO
 
 <br />
