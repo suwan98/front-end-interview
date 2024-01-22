@@ -182,7 +182,7 @@
 
 ### 중요도 ⭐⭐⭐
 
-- [JSX의 정의](./react-questions/jsx.md) 🚀TODO
+- [JSX의 정의](./react-questions/jsx.md)
 - [리액트에서 JSX 를 사용시 장점](./react-questions/react-in-jsx.md) 🚀TODO
 - [리액트에서는 가상 돔의 변경점을 어떻게 포착할까?](./react-questions/virtubal-dom-dipping.md) 🚀TODO
 - [Context API 를 상태관리 라이브러리처럼 사용할 수 있을까?](./react-questions/context-api-in-statemanagement.md) 🚀TODO
@@ -198,7 +198,7 @@
 
 ### 중요도 ⭐⭐⭐⭐⭐
 
-- [Nextjs의 동작방식에 대해 이해하고 있나요?](./nextjs-questions/how-nextjs-works.md)
+- [Nextjs의 동작방식에 대해 이해하고 있나요?](./nextjs-questions/how-nextjs-works.md) 🚀TODO
 
 <br />
 <br />
