@@ -83,7 +83,7 @@
 ### 중요도 ⭐⭐⭐⭐⭐
 
 - [클로저의 정의와 사용방식](./javascript-questions/4-closure.md)
-- [이벤트 위임이과 동작방식](./javascript-questions/1-event-delegation.md)
+- [이벤트 위임과 동작방식](./javascript-questions/1-event-delegation.md)
 - [프로토타입 상속](./javascript-questions/2-prototype-inherit.md)
 - [호이스팅](./javascript-questions/13-hoisting.md)
 - [이벤트 버블링](./javascript-questions/15-event-bubbling.md)
