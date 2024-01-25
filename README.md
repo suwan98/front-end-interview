@@ -209,7 +209,7 @@
 
 - [`doctype`의 기능](/HTML-questions/1-what-does-a-doctype-do.md)
 - ['data-' 속성](/HTML-questions/4-data-attributes.md)
-- [시맨틱 태그의 정의와 예시](./HTML-questions/simentic-tag.md) 🚀TODO
+- [시맨틱 태그의 정의와 예시](./HTML-questions/simentic-tag.md)
 
 <br />
 
