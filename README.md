@@ -276,8 +276,8 @@
 
 - [React-Router에 대한 설명과 동작방식에 대해서 설명해주세요](./project/react-router.md)
 - [nextjs의 useTheme을 통해 다크모드를 구현하셨다고하는데, 어떤방식으로 구현하셨나요?](./project/nextjs-useTheme.md)
-- [Google Analytics에 대해서 설명해주세요](./project/google-analyics.md) 🚀TODO
-- [Intersection Observer에 대해서 설명해주세요](./project/intersection-observer.md) 🚀TODO
+- [Google Analytics에 대해서 설명해주세요](./project/google-analyics.md)
+- [Intersection Observer에 대해서 설명해주세요](./project/intersection-observer.md)
 - [프로젝트 시 반응형 레이아웃은 어떤 방식으로 구현하셨나요?](./project/responsive-ui.md) 🚀TODO
 - [Tanstack-Query란 무엇이며 이를 사용하는 이유는 무엇일까요?](./project/tanstack-query.md) 🚀TODO
 - [SEO 최적화는 어떤 방식으로 하셨었나요?](./project/seo-opti.md) 🚀TODO
