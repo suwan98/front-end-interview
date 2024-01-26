@@ -275,7 +275,7 @@
 ## 🪄 프로젝트 관련 예상 면접질문
 
 - [React-Router에 대한 설명과 동작방식에 대해서 설명해주세요](./project/react-router.md)
-- [nextjs의 useTheme을 통해 다크모드를 구현하셨다고하는데, 어떤방식으로 구현하셨나요?](./project/nextjs-useTheme.md) 🚀TODO
+- [nextjs의 useTheme을 통해 다크모드를 구현하셨다고하는데, 어떤방식으로 구현하셨나요?](./project/nextjs-useTheme.md)
 - [Google Analytics에 대해서 설명해주세요](./project/google-analyics.md) 🚀TODO
 - [Intersection Observer에 대해서 설명해주세요](./project/intersection-observer.md) 🚀TODO
 - [프로젝트 시 반응형 레이아웃은 어떤 방식으로 구현하셨나요?](./project/responsive-ui.md) 🚀TODO
