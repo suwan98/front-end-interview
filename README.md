@@ -274,29 +274,37 @@
 
 ## 🪄 프로젝트 관련 예상 면접질문
 
+### 프로젝트 시 사용한 라이브러리 관련 예상 질문
+
 - [React-Router에 대한 설명과 동작방식에 대해서 설명해주세요](./project/react-router.md)
 - [nextjs의 useTheme을 통해 다크모드를 구현하셨다고하는데, 어떤방식으로 구현하셨나요?](./project/nextjs-useTheme.md)
 - [Google Analytics에 대해서 설명해주세요](./project/google-analyics.md)
 - [Intersection Observer에 대해서 설명해주세요](./project/intersection-observer.md)
-- [프로젝트 시 반응형 레이아웃은 어떤 방식으로 구현하셨나요?](./project/responsive-ui.md)
 - [Tanstack-Query란 무엇이며 이를 사용하는 이유는 무엇일까요?](./project/tanstack-query.md)
-- [SEO 최적화는 어떤 방식으로 하셨었나요?](./project/seo-opti.md)
-- [프로젝트 시 성능최적화를 하셨다고하는데 어떤 최적화들을 진행했었나요?](./project/project-opti.md)
 - [Recoil에 대해서 설명해주세요](./project/recoil.md)
 - [Zustand에 대해서 설명해주세요](./project/zustand.md)
 - [Zustand가 제공하는 미들웨어들은 뭐가 있을까요?](./project/zustand-middle-ware.md)
-- [소셜 미디어 공유 기능 구현은 어떤 방식으로 구현하셨나요?](./project/social-media.md) 🚀TODO
 - [Firebase의 특징에 대해서 설명해주세요](./project/fire-base.md) 🚀TODO
+- [nextjs의 app-router에 대해서 설명해주세요](./project/app-router.md) 🚀TODO
+- [framer-motion에 대해서 설명해주세요](./project/framer-motion.md) 🚀TODO
+
+### 프로젝트 시 적용한 기능 예상 질문
+
+- [프로젝트 시 반응형 레이아웃은 어떤 방식으로 구현하셨나요?](./project/responsive-ui.md)
+- [SEO 최적화는 어떤 방식으로 하셨었나요?](./project/seo-opti.md)
+- [프로젝트 시 성능최적화를 하셨다고하는데 어떤 최적화들을 진행했었나요?](./project/project-opti.md)
+- [소셜 미디어 공유 기능 구현은 어떤 방식으로 구현하셨나요?](./project/social-media.md)
+- [이미지 스와이퍼는 어떤식으로 구성하셨나요?](./project/image-swiper.md) 🚀TODO
+- [재사용성이 가능한 컴포넌트 구축을 위해 어떤 고민을 하셨나요?](./project/component.md) 🚀TODO
+- [debounce에 대해서 설명해주세요](./project/debounce.md)
+
+### AWS / CI/CD 관련 예상 질문
+
 - [AWS EC2로 서버를 배포하셨는데 그 이유는 뭔가요?](./project/ec2-server.md) 🚀TODO
 - [AWS에서 웹 빌드 파일을 배포하는 과정을 설명해주세요](./project/aws-deploy.md) 🚀TODO
 - [PM2에 대해서 설명해주세요](./project/pm2.md) 🚀TODO
 - [AWS EC2 인스턴스에 대해서 설명해주세요](./project/ec2.md) 🚀TODO
 - [AWS S3 버킷에 대해서 설명해주세요](./project/aws-s3-bucket.md) 🚀TODO
 - [certbot은 어떤 역할을 하나요?](./project/certbot.md) 🚀TODO
-- [Github Actions와 AWS CodeDeploy를 어떤 식으로 조합하셨나요?](./project/git-actions-in-codeDeploy.md) 🚀TODO
-- [nextjs의 app-router에 대해서 설명해주세요](./project/app-router.md) 🚀TODO
-- [framer-motion에 대해서 설명해주세요](./project/framer-motion.md) 🚀TODO
-- [이미지 스와이퍼는 어떤식으로 구성하셨나요?](./project/image-swiper.md) 🚀TODO
 - [GithubActions의 파이프라인은 어떤식으로 구성하셨나요?](./project/pipe-line.md) 🚀TODO
-- [재사용성이 가능한 컴포넌트 구축을 위해 어떤 고민을 하셨나요?](./project/component.md) 🚀TODO
-- [debounce에 대해서 설명해주세요](./project/debounce.md)
+- [Github Actions와 AWS CodeDeploy를 어떤 식으로 조합하셨나요?](./project/git-actions-in-codeDeploy.md) 🚀TODO
