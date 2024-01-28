@@ -283,7 +283,7 @@
 - [SEO 최적화는 어떤 방식으로 하셨었나요?](./project/seo-opti.md)
 - [프로젝트 시 성능최적화를 하셨다고하는데 어떤 최적화들을 진행했었나요?](./project/project-opti.md)
 - [Recoil에 대해서 설명해주세요](./project/recoil.md)
-- [Zustand에 대해서 설명해주세요](./project/zustand.md) 🚀TODO
+- [Zustand에 대해서 설명해주세요](./project/zustand.md)
 - [소셜 미디어 공유 기능 구현은 어떤 방식으로 구현하셨나요?](./project/social-media.md) 🚀TODO
 - [Zustand가 제공하는 미들웨어들은 뭐가 있을까요?](./project/zustand-middle-ware.md) 🚀TODO
 - [Firebase의 특징에 대해서 설명해주세요](./project/fire-base.md) 🚀TODO
