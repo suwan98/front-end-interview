@@ -284,9 +284,9 @@
 - [Recoil에 대해서 설명해주세요](./project/recoil.md)
 - [Zustand에 대해서 설명해주세요](./project/zustand.md)
 - [Zustand가 제공하는 미들웨어들은 뭐가 있을까요?](./project/zustand-middle-ware.md)
-- [Firebase의 특징에 대해서 설명해주세요](./project/fire-base.md) 🚀TODO
-- [nextjs의 app-router에 대해서 설명해주세요](./project/app-router.md) 🚀TODO
-- [framer-motion에 대해서 설명해주세요](./project/framer-motion.md) 🚀TODO
+- [Firebase의 특징에 대해서 설명해주세요](./project/fire-base.md)
+- [nextjs의 app-router에 대해서 설명해주세요](./project/app-router.md)
+- [framer-motion에 대해서 설명해주세요](./project/framer-motion.md)
 
 ### 프로젝트 시 적용한 기능 예상 질문
 
