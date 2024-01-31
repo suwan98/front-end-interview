@@ -295,7 +295,7 @@
 - [프로젝트 시 성능최적화를 하셨다고하는데 어떤 최적화들을 진행했었나요?](./project/project-opti.md)
 - [소셜 미디어 공유 기능 구현은 어떤 방식으로 구현하셨나요?](./project/social-media.md)
 - [이미지 스와이퍼는 어떤식으로 구성하셨나요?](./project/image-swiper.md) 🚀TODO
-- [재사용성이 가능한 컴포넌트 구축을 위해 어떤 고민을 하셨나요?](./project/component.md) 🚀TODO
+- [재사용 가능한 컴포넌트 구축을 위해 어떤 고민을 하셨나요?](./project/component.md)
 - [debounce에 대해서 설명해주세요](./project/debounce.md)
 
 ### AWS 및 CI/CD 관련 예상 질문
