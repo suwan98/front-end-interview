@@ -301,9 +301,8 @@
 ### AWS 및 CI/CD 관련 예상 질문
 
 - [AWS EC2로 서버를 배포하셨는데 그 이유는 뭔가요?](./project/ec2-server.md) 🚀TODO
-- [AWS에서 웹 빌드 파일을 배포하는 과정을 설명해주세요](./project/aws-deploy.md) 🚀TODO
-- [PM2에 대해서 설명해주세요](./project/pm2.md) 🚀TODO
 - [AWS EC2 인스턴스에 대해서 설명해주세요](./project/ec2.md) 🚀TODO
+- [AWS에서 웹 빌드 파일을 배포하는 과정을 설명해주세요](./project/aws-deploy.md)
 - [AWS S3 버킷에 대해서 설명해주세요](./project/aws-s3-bucket.md) 🚀TODO
 - [certbot은 어떤 역할을 하나요?](./project/certbot.md) 🚀TODO
 - [GithubActions의 파이프라인은 어떤식으로 구성하셨나요?](./project/pipe-line.md) 🚀TODO
