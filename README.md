@@ -306,7 +306,7 @@
 - [AWS S3 버킷에 대해서 설명해주세요](./project/aws-s3-bucket.md)
 - [certbot은 어떤 역할을 하나요?](./project/certbot.md)
 - [Github Actions의 파이프라인은 어떤식으로 구성하셨나요?](./project/pipe-line.md)
-- [Github Actions와 AWS CodeDeploy를 어떤 식으로 조합하셨나요?](./project/git-actions-in-codeDeploy.md) 🚀TODO
+- [Github Actions와 AWS CodeDeploy를 어떤 식으로 조합하셨나요?](./project/git-actions-in-codeDeploy.md)
 
 <br />
 <br />
