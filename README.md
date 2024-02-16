@@ -33,6 +33,8 @@
 
 [🪄 프로젝트 관련 예상 면접질문](#-프로젝트-관련-예상-면접질문)
 
+[👋 이력서 기반 예상 면접질문](#-이력서-기반-예상-면접질문)
+
 <br />
 <br />
 
@@ -306,3 +308,8 @@
 - [certbot은 어떤 역할을 하나요?](./project/certbot.md)
 - [Github Actions의 파이프라인은 어떤식으로 구성하셨나요?](./project/pipe-line.md) 🚀TODO
 - [Github Actions와 AWS CodeDeploy를 어떤 식으로 조합하셨나요?](./project/git-actions-in-codeDeploy.md) 🚀TODO
+
+<br />
+<br />
+
+## 👋 이력서 기반 예상 면접 질문
