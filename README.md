@@ -295,7 +295,6 @@
 - [SEO 최적화는 어떤 방식으로 하셨었나요?](./project/seo-opti.md)
 - [프로젝트 시 성능최적화를 하셨다고하는데 어떤 최적화들을 진행했었나요?](./project/project-opti.md)
 - [소셜 미디어 공유 기능 구현은 어떤 방식으로 구현하셨나요?](./project/social-media.md)
-- [이미지 스와이퍼는 어떤식으로 구성하셨나요?](./project/image-swiper.md) 🚀TODO
 - [재사용 가능한 컴포넌트 구축을 위해 어떤 고민을 하셨나요?](./project/component.md)
 - [debounce에 대해서 설명해주세요](./project/debounce.md)
 
@@ -306,7 +305,7 @@
 - [AWS에서 웹 빌드 파일을 배포하는 과정을 설명해주세요](./project/aws-deploy.md)
 - [AWS S3 버킷에 대해서 설명해주세요](./project/aws-s3-bucket.md)
 - [certbot은 어떤 역할을 하나요?](./project/certbot.md)
-- [Github Actions의 파이프라인은 어떤식으로 구성하셨나요?](./project/pipe-line.md) 🚀TODO
+- [Github Actions의 파이프라인은 어떤식으로 구성하셨나요?](./project/pipe-line.md)
 - [Github Actions와 AWS CodeDeploy를 어떤 식으로 조합하셨나요?](./project/git-actions-in-codeDeploy.md) 🚀TODO
 
 <br />
