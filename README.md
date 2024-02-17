@@ -93,7 +93,7 @@
 - [JavaScript에서 동일 출처 정책](./javascript-questions/19-same-origin-policy.md)
 - [동기 및 비동기 함수의 차이](./javascript-questions/28-synchronous-asynchronouse-function-diffrence.md)
 - [이벤트 루프](./javascript-questions/29-event-loop.md)
-- [콜 스택과 태스크 큐의 차이점](./javascript-questions/30-task-quque.md)
+- [콜 스택과 태스크 큐의 정의 및 차이점](./javascript-questions/30-task-quque.md)
 - [실행컨텍스트란?](./javascript-questions/execution-context.md)
 - [this란?](./javascript-questions/this.md)
 - [typescript를 사용한 이유와 사용했을때 장점](./javascript-questions/why-typescript.md)
