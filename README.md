@@ -56,6 +56,7 @@
 - [OAuth](./web-questions/OAuth.md)
 - [쿠키, sessionStorage, localStorage의 차이점](/HTML-questions/6-difference-between-cookie-sessionstorage-localstorage.md)
 - [CSR과SSR의 차이점](./web-questions/spa.md)
+- [CORS란?](./web-questions/cors.md)
 - [Nginx](./web-questions/nginx.md)
 - [SSL이란?](./web-questions/ssl.md)
 
