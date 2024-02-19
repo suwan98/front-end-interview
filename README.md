@@ -57,8 +57,7 @@
 - [쿠키, sessionStorage, localStorage의 차이점](/HTML-questions/6-difference-between-cookie-sessionstorage-localstorage.md)
 - [CSR과SSR의 차이점](./web-questions/spa.md)
 - [CORS란?](./web-questions/cors.md)
-- [Nginx](./web-questions/nginx.md)
-- [SSL이란?](./web-questions/ssl.md)
+- [URI와 URL의 차이점](./web-questions/uri-url.md)
 
 <br />
 
@@ -69,6 +68,8 @@
 - [SEO란 무엇인가?](./web-questions/SEO.md)
 - [SEO 최적화를 구성하는 방법](./web-questions/SEO-optimization.md)
 - [클라이언트 사이드 렌더링 시 검색엔진 최적화 이슈가 발생하는 이유](./web-questions/csr-seo-issue.md)
+- [Nginx](./web-questions/nginx.md)
+- [SSL이란?](./web-questions/ssl.md)
 
 <br />
 
