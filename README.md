@@ -70,12 +70,16 @@
 - [클라이언트 사이드 렌더링 시 검색엔진 최적화 이슈가 발생하는 이유](./web-questions/csr-seo-issue.md)
 - [Nginx](./web-questions/nginx.md)
 - [SSL이란?](./web-questions/ssl.md)
+- [XSS(Cross-Site Scripting) 공격이란 무엇이며, 방어 방법은?](./web-questions/xss.md)
+- [CSRF(Cross-Site Request Forgery) 공격이란 무엇이며, 방어 방법은?](./web-questions/csrf.md)
+-
 
 <br />
 
 ### 중요도 ⭐⭐⭐
 
 - [모듈 번들러와 트랜스 파일러](./web-questions/bundler-tarnspiler.md)
+- [Webpack을 사용하는 이유와 주요 기능은 무엇인가?](./web-questions/webPack.md)
 - [함수형 프로그래밍이란?](./web-questions/functional-programming.md)
 
 <br />
